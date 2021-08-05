@@ -1,0 +1,1464 @@
+﻿Log file open, 08/03/21 20:39:04
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: Final_Project
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.135812
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.23-CL-9631420
+LogInit: Engine Version: 4.23.1-9631420+++UE4+Release-4.23
+LogInit: Compatible Engine Version: 4.23.0-8386587+++UE4+Release-4.23
+LogInit: Net CL: 8386587
+LogInit: OS: Windows 10 (Release 2009) (), CPU: Intel(R) Core(TM) i7-1065G7 CPU @ 1.30GHz, GPU: Intel(R) Iris(R) Plus Graphics
+LogInit: Compiled (64-bit): Oct 18 2019 02:07:44
+LogInit: Compiled with Visual C++: 19.16.27030.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.23
+LogInit: Command Line:  -EpicPortal -epicusername="xera ツ" -epicuserid=5bfda8880cdb49189da632b728097990 -epiclocale=en
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.23/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 34
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 31
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 27
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 9
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2021.08.04-00.39.05:117][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2021.08.04-00.39.05:117][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2021.08.04-00.39.05:117][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/huiwa/OneDrive/Documents/Unreal Projects/Final_Project/Saved/Config/Windows/Engine.ini]
+[2021.08.04-00.39.05:117][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2021.08.04-00.39.05:117][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/huiwa/OneDrive/Documents/Unreal Projects/Final_Project/Saved/Config/Windows/Engine.ini]
+[2021.08.04-00.39.05:117][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/huiwa/OneDrive/Documents/Unreal Projects/Final_Project/Saved/Config/Windows/Engine.ini]
+[2021.08.04-00.39.05:117][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2021.08.04-00.39.05:118][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2021.08.04-00.39.05:118][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2021.08.04-00.39.05:118][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2021.08.04-00.39.05:118][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2021.08.04-00.39.05:118][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2021.08.04-00.39.05:118][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2021.08.04-00.39.05:118][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2021.08.04-00.39.05:118][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2021.08.04-00.39.05:118][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2021.08.04-00.39.05:118][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2021.08.04-00.39.05:118][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2021.08.04-00.39.05:118][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2021.08.04-00.39.05:118][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/huiwa/OneDrive/Documents/Unreal Projects/Final_Project/Saved/Config/Windows/Engine.ini]
+[2021.08.04-00.39.05:118][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2021.08.04-00.39.05:118][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2021.08.04-00.39.05:118][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2021.08.04-00.39.05:118][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2021.08.04-00.39.05:118][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2021.08.04-00.39.05:118][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2021.08.04-00.39.05:118][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2021.08.04-00.39.05:118][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2021.08.04-00.39.05:118][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2021.08.04-00.39.05:118][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2021.08.04-00.39.05:118][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2021.08.04-00.39.05:118][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2021.08.04-00.39.05:118][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2021.08.04-00.39.05:118][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/huiwa/OneDrive/Documents/Unreal Projects/Final_Project/Saved/Config/Windows/Engine.ini]
+[2021.08.04-00.39.05:118][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/huiwa/OneDrive/Documents/Unreal Projects/Final_Project/Saved/Config/Windows/Engine.ini]
+[2021.08.04-00.39.05:124][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/huiwa/OneDrive/Documents/Unreal Projects/Final_Project/Saved/Config/Windows/Scalability.ini]
+[2021.08.04-00.39.05:124][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.08.04-00.39.05:124][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.08.04-00.39.05:124][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/huiwa/OneDrive/Documents/Unreal Projects/Final_Project/Saved/Config/Windows/Scalability.ini]
+[2021.08.04-00.39.05:124][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.08.04-00.39.05:124][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/huiwa/OneDrive/Documents/Unreal Projects/Final_Project/Saved/Config/Windows/Scalability.ini]
+[2021.08.04-00.39.05:124][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.08.04-00.39.05:124][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.08.04-00.39.05:124][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.08.04-00.39.05:124][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.08.04-00.39.05:124][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.08.04-00.39.05:124][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.08.04-00.39.05:124][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.08.04-00.39.05:124][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.08.04-00.39.05:124][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.08.04-00.39.05:124][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.08.04-00.39.05:124][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.08.04-00.39.05:124][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.08.04-00.39.05:124][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.08.04-00.39.05:124][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.08.04-00.39.05:124][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.08.04-00.39.05:124][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.08.04-00.39.05:124][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.08.04-00.39.05:124][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.08.04-00.39.05:124][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/huiwa/OneDrive/Documents/Unreal Projects/Final_Project/Saved/Config/Windows/Scalability.ini]
+[2021.08.04-00.39.05:125][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.08.04-00.39.05:125][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.08.04-00.39.05:125][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.08.04-00.39.05:125][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.08.04-00.39.05:125][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.08.04-00.39.05:125][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.08.04-00.39.05:125][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.08.04-00.39.05:125][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.08.04-00.39.05:125][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.08.04-00.39.05:125][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.08.04-00.39.05:125][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.08.04-00.39.05:125][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.08.04-00.39.05:125][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.08.04-00.39.05:125][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.08.04-00.39.05:125][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.08.04-00.39.05:125][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.08.04-00.39.05:125][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.08.04-00.39.05:125][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.08.04-00.39.05:125][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.08.04-00.39.05:125][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.08.04-00.39.05:125][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.08.04-00.39.05:125][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.08.04-00.39.05:125][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.08.04-00.39.05:125][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.08.04-00.39.05:125][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.08.04-00.39.05:125][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.08.04-00.39.05:125][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.08.04-00.39.05:125][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.08.04-00.39.05:125][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.08.04-00.39.05:125][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.08.04-00.39.05:125][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/huiwa/OneDrive/Documents/Unreal Projects/Final_Project/Saved/Config/Windows/Scalability.ini]
+[2021.08.04-00.39.05:125][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.08.04-00.39.05:125][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.08.04-00.39.05:125][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.08.04-00.39.05:125][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.08.04-00.39.05:125][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.08.04-00.39.05:125][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.08.04-00.39.05:125][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.08.04-00.39.05:125][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.08.04-00.39.05:125][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/huiwa/OneDrive/Documents/Unreal Projects/Final_Project/Saved/Config/Windows/Scalability.ini]
+[2021.08.04-00.39.05:125][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.08.04-00.39.05:125][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.08.04-00.39.05:126][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.08.04-00.39.05:126][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.08.04-00.39.05:126][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.08.04-00.39.05:126][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.08.04-00.39.05:126][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.08.04-00.39.05:126][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.08.04-00.39.05:126][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.08.04-00.39.05:126][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.08.04-00.39.05:126][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2021.08.04-00.39.05:126][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.08.04-00.39.05:126][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.08.04-00.39.05:126][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/huiwa/OneDrive/Documents/Unreal Projects/Final_Project/Saved/Config/Windows/Scalability.ini]
+[2021.08.04-00.39.05:126][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.08.04-00.39.05:126][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.08.04-00.39.05:126][  0]LogInit: Selected Device Profile: [Windows]
+[2021.08.04-00.39.05:126][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2021.08.04-00.39.05:136][  0]LogHAL: Display: Platform has ~ 8 GB [8346456064 / 8589934592 / 8], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2021.08.04-00.39.05:136][  0]LogInit: Going up to parent DeviceProfile []
+[2021.08.04-00.39.05:136][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@1] File [C:/Users/huiwa/OneDrive/Documents/Unreal Projects/Final_Project/Saved/Config/Windows/Scalability.ini]
+[2021.08.04-00.39.05:136][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:1]]
+[2021.08.04-00.39.05:136][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:0.6]]
+[2021.08.04-00.39.05:136][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@1] File [C:/Users/huiwa/OneDrive/Documents/Unreal Projects/Final_Project/Saved/Config/Windows/Scalability.ini]
+[2021.08.04-00.39.05:136][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:2]]
+[2021.08.04-00.39.05:136][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@1] File [C:/Users/huiwa/OneDrive/Documents/Unreal Projects/Final_Project/Saved/Config/Windows/Scalability.ini]
+[2021.08.04-00.39.05:136][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.08.04-00.39.05:136][  0]LogConfig: Setting CVar [[r.ShadowQuality:3]]
+[2021.08.04-00.39.05:136][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:1]]
+[2021.08.04-00.39.05:136][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:1024]]
+[2021.08.04-00.39.05:136][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:1024]]
+[2021.08.04-00.39.05:136][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.05]]
+[2021.08.04-00.39.05:136][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:0.7]]
+[2021.08.04-00.39.05:136][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:0.25]]
+[2021.08.04-00.39.05:137][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:0.5]]
+[2021.08.04-00.39.05:137][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:0]]
+[2021.08.04-00.39.05:137][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:0]]
+[2021.08.04-00.39.05:137][  0]LogConfig: Setting CVar [[r.VolumetricFog:0]]
+[2021.08.04-00.39.05:137][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:.5]]
+[2021.08.04-00.39.05:137][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.08.04-00.39.05:137][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@1] File [C:/Users/huiwa/OneDrive/Documents/Unreal Projects/Final_Project/Saved/Config/Windows/Scalability.ini]
+[2021.08.04-00.39.05:137][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:3]]
+[2021.08.04-00.39.05:137][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:1.0]]
+[2021.08.04-00.39.05:137][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:60]]
+[2021.08.04-00.39.05:137][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.08.04-00.39.05:137][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.5]]
+[2021.08.04-00.39.05:137][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:1]]
+[2021.08.04-00.39.05:137][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:350]]
+[2021.08.04-00.39.05:137][  0]LogConfig: Setting CVar [[r.LensFlareQuality:0]]
+[2021.08.04-00.39.05:137][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:0]]
+[2021.08.04-00.39.05:137][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:0]]
+[2021.08.04-00.39.05:137][  0]LogConfig: Setting CVar [[r.BloomQuality:4]]
+[2021.08.04-00.39.05:137][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:2]]
+[2021.08.04-00.39.05:137][  0]LogConfig: Setting CVar [[r.Upscale.Quality:2]]
+[2021.08.04-00.39.05:137][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:0]]
+[2021.08.04-00.39.05:137][  0]LogConfig: Setting CVar [[r.LightShaftQuality:0]]
+[2021.08.04-00.39.05:137][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:0.7]]
+[2021.08.04-00.39.05:137][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:2]]
+[2021.08.04-00.39.05:137][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:0        ; lower gathering accumulator quality]]
+[2021.08.04-00.39.05:138][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:2          ; Max3x3 postfilering method]]
+[2021.08.04-00.39.05:138][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.08.04-00.39.05:138][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:3                 ; low number of samples when gathering]]
+[2021.08.04-00.39.05:138][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:0    ; no foreground scattering]]
+[2021.08.04-00.39.05:138][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:0    ; no foreground scattering]]
+[2021.08.04-00.39.05:138][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:0                ; no slight out of focus]]
+[2021.08.04-00.39.05:138][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:0                ; faster temporal accumulation]]
+[2021.08.04-00.39.05:138][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.006   ; required because low gathering and no scattering and not looking great at 1080p]]
+[2021.08.04-00.39.05:138][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.006   ; required because low gathering and no scattering and not looking great at 1080p]]
+[2021.08.04-00.39.05:138][  0]LogConfig: Applying CVar settings from Section [TextureQuality@1] File [C:/Users/huiwa/OneDrive/Documents/Unreal Projects/Final_Project/Saved/Config/Windows/Scalability.ini]
+[2021.08.04-00.39.05:138][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:1]]
+[2021.08.04-00.39.05:138][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.08.04-00.39.05:138][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.08.04-00.39.05:138][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.08.04-00.39.05:138][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:2]]
+[2021.08.04-00.39.05:138][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:1]]
+[2021.08.04-00.39.05:138][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:600]]
+[2021.08.04-00.39.05:138][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.08.04-00.39.05:138][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@1] File [C:/Users/huiwa/OneDrive/Documents/Unreal Projects/Final_Project/Saved/Config/Windows/Scalability.ini]
+[2021.08.04-00.39.05:138][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:32]]
+[2021.08.04-00.39.05:138][  0]LogConfig: Setting CVar [[r.RefractionQuality:0]]
+[2021.08.04-00.39.05:138][  0]LogConfig: Setting CVar [[r.SSR.Quality:0]]
+[2021.08.04-00.39.05:138][  0]LogConfig: Setting CVar [[r.SceneColorFormat:3]]
+[2021.08.04-00.39.05:138][  0]LogConfig: Setting CVar [[r.DetailMode:1]]
+[2021.08.04-00.39.05:138][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:0]]
+[2021.08.04-00.39.05:138][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:2 ; Medium quality]]
+[2021.08.04-00.39.05:138][  0]LogConfig: Setting CVar [[r.SSS.Scale:0.75]]
+[2021.08.04-00.39.05:138][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:0]]
+[2021.08.04-00.39.05:138][  0]LogConfig: Setting CVar [[r.SSS.Quality:0]]
+[2021.08.04-00.39.05:138][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2021.08.04-00.39.05:138][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:0.25]]
+[2021.08.04-00.39.05:138][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:0]]
+[2021.08.04-00.39.05:138][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@1] File [C:/Users/huiwa/OneDrive/Documents/Unreal Projects/Final_Project/Saved/Config/Windows/Scalability.ini]
+[2021.08.04-00.39.05:138][  0]LogConfig: Setting CVar [[foliage.DensityScale:0.4]]
+[2021.08.04-00.39.05:138][  0]LogConfig: Setting CVar [[grass.DensityScale:0.4]]
+[2021.08.04-00.39.05:138][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2021.08.04-00.39.05:140][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2021.08.04-00.39.05:140][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2021.08.04-00.39.05:140][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/huiwa/OneDrive/Documents/Unreal Projects/Final_Project/Saved/Config/Windows/Engine.ini]
+[2021.08.04-00.39.05:140][  0]LogInit: Computer: DESKTOP-KA1H9E6
+[2021.08.04-00.39.05:140][  0]LogInit: User: huiwa
+[2021.08.04-00.39.05:140][  0]LogInit: CPU Page size=4096, Cores=4
+[2021.08.04-00.39.05:140][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2021.08.04-00.39.05:140][  0]LogMemory: Memory total: Physical=7.8GB (8GB approx)
+[2021.08.04-00.39.05:140][  0]LogMemory: Platform Memory Stats for Windows
+[2021.08.04-00.39.05:141][  0]LogMemory: Process Physical Memory: 102.32 MB used, 102.33 MB peak
+[2021.08.04-00.39.05:141][  0]LogMemory: Process Virtual Memory: 100.50 MB used, 100.50 MB peak
+[2021.08.04-00.39.05:141][  0]LogMemory: Physical Memory: 5908.86 MB used,  2050.94 MB free, 7959.80 MB total
+[2021.08.04-00.39.05:141][  0]LogMemory: Virtual Memory: 4670.68 MB used,  134213056.00 MB free, 134217728.00 MB total
+[2021.08.04-00.39.05:159][  0]LogWindows: WindowsPlatformFeatures enabled
+[2021.08.04-00.39.05:578][  0]LogInit: Using OS detected language (en-US).
+[2021.08.04-00.39.05:578][  0]LogInit: Using OS detected locale (en-US).
+[2021.08.04-00.39.05:580][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2021.08.04-00.39.06:692][  0]LogInit: Setting process to per monitor DPI aware
+[2021.08.04-00.39.06:870][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2021.08.04-00.39.06:871][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2021.08.04-00.39.12:970][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.08.04-00.39.12:970][  0]LogD3D11RHI: D3D11 adapters:
+[2021.08.04-00.39.13:035][  0]LogD3D11RHI:    0. 'Intel(R) Iris(R) Plus Graphics' (Feature Level 11_0)
+[2021.08.04-00.39.13:035][  0]LogD3D11RHI:       128/0/3979 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x8086
+[2021.08.04-00.39.13:039][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2021.08.04-00.39.13:039][  0]LogD3D11RHI:       0/0/3979 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2021.08.04-00.39.13:039][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2021.08.04-00.39.13:046][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2021.08.04-00.39.13:046][  0]LogD3D11RHI:     GPU DeviceId: 0x8a52 (for the marketing name, search the web for "GPU Device Id")
+[2021.08.04-00.39.13:046][  0]LogWindows: EnumDisplayDevices:
+[2021.08.04-00.39.13:046][  0]LogWindows:    0. 'Intel(R) Iris(R) Plus Graphics' (P:1 D:1)
+[2021.08.04-00.39.13:047][  0]LogWindows:    1. 'Intel(R) Iris(R) Plus Graphics' (P:0 D:0)
+[2021.08.04-00.39.13:047][  0]LogWindows:    2. 'Intel(R) Iris(R) Plus Graphics' (P:0 D:0)
+[2021.08.04-00.39.13:047][  0]LogWindows: DebugString: FoundDriverCount:3 
+[2021.08.04-00.39.13:047][  0]LogD3D11RHI:     Adapter Name: Intel(R) Iris(R) Plus Graphics
+[2021.08.04-00.39.13:047][  0]LogD3D11RHI:   Driver Version: 30.0.100.9684 (internal:30.0.100.9684, unified:30.0.100.9684)
+[2021.08.04-00.39.13:047][  0]LogD3D11RHI:      Driver Date: 7-9-2021
+[2021.08.04-00.39.13:047][  0]LogRHI: Texture pool is 1482 MB (70% of 2117 MB)
+[2021.08.04-00.39.13:278][  0]LogD3D11RHI: [IntelMetricsDiscovery] Started
+[2021.08.04-00.39.13:278][  0]LogD3D11RHI: Async texture creation enabled
+[2021.08.04-00.39.13:288][  0]LogD3D11RHI: GPU Timing Frequency: 19.200000 (Debug: 2 0)
+[2021.08.04-00.39.13:971][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2021.08.04-00.39.13:993][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2021.08.04-00.39.14:014][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2021.08.04-00.39.14:035][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2021.08.04-00.39.14:056][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2021.08.04-00.39.14:075][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2021.08.04-00.39.14:098][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2021.08.04-00.39.14:120][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2021.08.04-00.39.14:128][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2021.08.04-00.39.14:199][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2021.08.04-00.39.14:199][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2021.08.04-00.39.14:199][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2021.08.04-00.39.14:200][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2021.08.04-00.39.14:200][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2021.08.04-00.39.14:200][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2021.08.04-00.39.14:200][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2021.08.04-00.39.14:200][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2021.08.04-00.39.14:200][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2021.08.04-00.39.14:200][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2021.08.04-00.39.14:200][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2021.08.04-00.39.14:200][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2021.08.04-00.39.14:200][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2021.08.04-00.39.14:200][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2021.08.04-00.39.14:200][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2021.08.04-00.39.14:200][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2021.08.04-00.39.14:200][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2021.08.04-00.39.14:200][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2021.08.04-00.39.14:206][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2021.08.04-00.39.14:243][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2021.08.04-00.39.14:243][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2021.08.04-00.39.14:276][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2021.08.04-00.39.14:276][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2021.08.04-00.39.14:292][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2021.08.04-00.39.14:307][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2021.08.04-00.39.14:323][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2021.08.04-00.39.14:344][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2021.08.04-00.39.14:403][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2021.08.04-00.39.14:403][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2021.08.04-00.39.14:403][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2021.08.04-00.39.14:494][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2021.08.04-00.39.14:695][  0]LogShaderCompilers: Guid format shader working directory is -33 characters bigger than the processId version (../../../../../../Users/huiwa/OneDrive/Documents/Unreal Projects/Final_Project/Intermediate/Shaders/WorkingDirectory/11924/).
+[2021.08.04-00.39.14:696][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/huiwa/AppData/Local/Temp/UnrealShaderWorkingDir/83C32E36464B3748B40352BCE82EAFA0/'.
+[2021.08.04-00.39.14:700][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2021.08.04-00.39.14:701][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2021.08.04-00.39.14:701][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2021.08.04-00.39.20:125][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2021.08.04-00.39.20:232][  0]LogDerivedDataCache: Loaded boot cache 0.11s 73MB C:/Users/huiwa/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
+[2021.08.04-00.39.20:233][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/huiwa/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc
+[2021.08.04-00.39.20:233][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/huiwa/OneDrive/Documents/Unreal Projects/Final_Project/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2021.08.04-00.39.20:233][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2021.08.04-00.39.20:233][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/huiwa/OneDrive/Documents/Unreal Projects/Final_Project/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.08.04-00.39.20:233][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2021.08.04-00.39.20:278][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2021.08.04-00.39.20:278][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.08.04-00.39.20:278][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2021.08.04-00.39.20:280][  0]LogDerivedDataCache: Using Local data cache path C:/Users/huiwa/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2021.08.04-00.39.20:280][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2021.08.04-00.39.20:280][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2021.08.04-00.39.20:324][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2021.08.04-00.39.20:331][  0]LogSlate: Using FreeType 2.6.0
+[2021.08.04-00.39.20:363][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2021.08.04-00.39.20:550][  0]LogAssetRegistry: FAssetRegistry took 0.0075 seconds to start up
+[2021.08.04-00.39.21:206][  0]LogInit: Selected Device Profile: [Windows]
+[2021.08.04-00.39.21:776][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2021.08.04-00.39.21:776][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2021.08.04-00.39.21:776][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2021.08.04-00.39.21:776][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2021.08.04-00.39.21:776][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2021.08.04-00.39.21:852][  0]LogNetVersion: Final_Project 1.0.0, NetCL: 8386587, EngineNetVer: 11, GameNetVer: 0 (Checksum: 2744521800)
+[2021.08.04-00.39.24:352][  0]LogPackageLocalizationCache: Processed 12 localized package path(s) for 1 prioritized culture(s) in 0.104268 seconds
+[2021.08.04-00.39.24:363][  0]LogUObjectArray: 43444 objects as part of root set at end of initial load.
+[2021.08.04-00.39.24:363][  0]LogUObjectAllocator: 7548648 out of 0 bytes used by permanent object pool.
+[2021.08.04-00.39.24:364][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2021.08.04-00.39.28:419][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2021.08.04-00.39.28:429][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2021.08.04-00.39.28:637][  0]SourceControl: Source control is disabled
+[2021.08.04-00.39.28:637][  0]SourceControl: Source control is disabled
+[2021.08.04-00.39.28:642][  0]SourceControl: Source control is disabled
+[2021.08.04-00.39.28:648][  0]SourceControl: Source control is disabled
+[2021.08.04-00.39.29:001][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2021.08.04-00.39.29:429][  0]LogOcInput: OculusInput pre-init called
+[2021.08.04-00.39.29:446][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2021.08.04-00.39.29:446][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2021.08.04-00.39.29:661][  0]LogEngine: Initializing Engine...
+[2021.08.04-00.39.29:663][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.08.04-00.39.29:667][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2021.08.04-00.39.30:873][  0]LogInit: Initializing FReadOnlyCVARCache
+[2021.08.04-00.39.30:911][  0]LogAIModule: Creating AISystem for world Untitled
+[2021.08.04-00.39.30:957][  0]LogInit: XAudio2 using 'R240HY (Intel(R) Display Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2021.08.04-00.39.31:604][  0]LogInit: FAudioDevice initialized.
+[2021.08.04-00.39.31:604][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2021.08.04-00.39.31:719][  0]LogDerivedDataCache: Saved boot cache 0.11s 73MB C:/Users/huiwa/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
+[2021.08.04-00.39.31:726][  0]LogInit: Texture streaming: Enabled
+[2021.08.04-00.39.31:767][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2021.08.04-00.39.31:767][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2021.08.04-00.39.31:768][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2021.08.04-00.39.31:888][  0]LogInit: Transaction tracking system initialized
+[2021.08.04-00.39.31:982][  0]BlueprintLog: New page: Editor Load
+[2021.08.04-00.39.32:186][  0]LocalizationService: Localization service is disabled
+[2021.08.04-00.39.35:153][  0]LogFileCache: Scanning file cache for directory 'C:/Users/huiwa/OneDrive/Documents/Unreal Projects/Final_Project/Content/' took 0.01s
+[2021.08.04-00.39.35:154][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2021.08.04-00.39.35:154][  0]LogCook: Display: Mobile HDR setting 1
+[2021.08.04-00.39.35:885][  0]SourceControl: Source control is disabled
+[2021.08.04-00.39.35:885][  0]Cmd: MAP LOAD FILE="../../../../../../Users/huiwa/OneDrive/Documents/Unreal Projects/Final_Project/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.08.04-00.39.35:896][  0]LightingResults: New page: Lighting Build
+[2021.08.04-00.39.35:902][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2021.08.04-00.39.35:903][  0]MapCheck: New page: Map Check
+[2021.08.04-00.39.35:903][  0]LightingResults: New page: Lighting Build
+[2021.08.04-00.39.35:964][  0]LogUObjectHash: Compacting FUObjectHashTables data took   3.39ms
+[2021.08.04-00.39.37:564][  0]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2021.08.04-00.39.37:608][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.08.04-00.39.37:683][  0]LogUObjectHash: Compacting FUObjectHashTables data took   6.84ms
+[2021.08.04-00.39.37:683][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.08.04-00.39.37:683][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.371ms to complete.
+[2021.08.04-00.39.37:683][  0]LogFileHelpers: Loading map 'FirstPersonExampleMap' took 1.798
+[2021.08.04-00.39.37:938][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.04-00.39.37:953][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.04-00.39.37:966][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.04-00.39.37:982][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.04-00.39.38:007][  0]LogCollectionManager: Loaded 0 collections in 0.002026 seconds
+[2021.08.04-00.39.38:033][  0]LogFileCache: Scanning file cache for directory 'C:/Users/huiwa/OneDrive/Documents/Unreal Projects/Final_Project/Saved/Collections/' took 0.00s
+[2021.08.04-00.39.38:033][  0]LogFileCache: Scanning file cache for directory 'C:/Users/huiwa/OneDrive/Documents/Unreal Projects/Final_Project/Content/Developers/huiwa/Collections/' took 0.00s
+[2021.08.04-00.39.38:033][  0]LogFileCache: Scanning file cache for directory 'C:/Users/huiwa/OneDrive/Documents/Unreal Projects/Final_Project/Content/Collections/' took 0.00s
+[2021.08.04-00.39.38:033][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000004 seconds
+[2021.08.04-00.39.38:052][  0]LogContentBrowser: Native class hierarchy populated in 0.0166 seconds. Added 2863 classes and 680 folders.
+[2021.08.04-00.39.38:069][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2021.08.04-00.39.38:724][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2021.08.04-00.39.38:749][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0005 seconds. Added 1 classes and 2 folders.
+[2021.08.04-00.39.39:036][  0]LogSlate: Took 0.010965 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2021.08.04-00.39.39:051][  0]LogSlate: Took 0.011638 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2021.08.04-00.39.39:070][  0]LogSlate: Took 0.009338 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2021.08.04-00.39.39:350][  0]LogRenderer: Reallocating scene render targets to support 1160x580 Format 9 NumSamples 1 (Frame:1).
+[2021.08.04-00.39.42:404][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2021.08.04-00.39.42:404][  0]LogLoad: (Engine Initialization) Total time: 41.00 seconds
+[2021.08.04-00.39.42:405][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2021.08.04-00.39.42:497][  0]LogContentStreaming: Texture pool size now 600 MB
+[2021.08.04-00.39.43:690][  4]LogSlate: Took 0.011501 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.08.04-00.39.45:971][ 36]LogAssetRegistry: Asset discovery search completed in 25.4245 seconds
+[2021.08.04-00.39.45:978][ 36]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000009 seconds (found 0 objects)
+[2021.08.04-00.39.45:978][ 36]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000119 seconds (updated 0 objects)
+[2021.08.04-00.39.46:015][ 36]LogSlate: Took 0.000217 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.08.04-00.40.19:248][308]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.08.04-00.40.19:430][316]LogAIModule: Creating AISystem for world GameOverLevel
+[2021.08.04-00.40.19:434][316]LogAssetEditorManager: Opening Asset editor for World /Game/Hui/GameOverLevel.GameOverLevel
+[2021.08.04-00.40.19:461][316]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
+[2021.08.04-00.40.19:462][316]Cmd: MAP LOAD FILE="../../../../../../Users/huiwa/OneDrive/Documents/Unreal Projects/Final_Project/Content/Hui/GameOverLevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.08.04-00.40.19:462][316]LightingResults: New page: Lighting Build
+[2021.08.04-00.40.19:463][316]LoadErrors: New page: Loading map: GameOverLevel.umap
+[2021.08.04-00.40.19:464][316]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.08.04-00.40.19:464][316]MapCheck: New page: Map Check
+[2021.08.04-00.40.19:464][316]LightingResults: New page: Lighting Build
+[2021.08.04-00.40.19:491][316]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2021.08.04-00.40.19:573][316]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.08.04-00.40.19:601][316]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2021.08.04-00.40.19:626][316]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.08.04-00.40.19:626][316]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.138ms to complete.
+[2021.08.04-00.40.19:626][316]LogFileHelpers: Loading map 'GameOverLevel' took 0.166
+[2021.08.04-00.40.30:191][917]LogAIModule: Creating AISystem for world MainMenuLevel
+[2021.08.04-00.40.30:194][917]LogAssetEditorManager: Opening Asset editor for World /Game/Hui/MainMenuLevel.MainMenuLevel
+[2021.08.04-00.40.30:220][917]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2021.08.04-00.40.30:221][917]Cmd: MAP LOAD FILE="../../../../../../Users/huiwa/OneDrive/Documents/Unreal Projects/Final_Project/Content/Hui/MainMenuLevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.08.04-00.40.30:221][917]LightingResults: New page: Lighting Build
+[2021.08.04-00.40.30:222][917]LoadErrors: New page: Loading map: MainMenuLevel.umap
+[2021.08.04-00.40.30:222][917]LogWorld: UWorld::CleanupWorld for GameOverLevel, bSessionEnded=true, bCleanupResources=true
+[2021.08.04-00.40.30:222][917]MapCheck: New page: Map Check
+[2021.08.04-00.40.30:222][917]LightingResults: New page: Lighting Build
+[2021.08.04-00.40.30:248][917]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2021.08.04-00.40.30:316][917]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.08.04-00.40.30:342][917]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2021.08.04-00.40.30:362][917]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.08.04-00.40.30:362][917]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.144ms to complete.
+[2021.08.04-00.40.30:362][917]LogFileHelpers: Loading map 'MainMenuLevel' took 0.141
+[2021.08.04-00.40.35:541][207]LogAssetEditorManager: Opening Asset editor for LevelScriptBlueprint /Game/Hui/MainMenuLevel.MainMenuLevel:PersistentLevel.MainMenuLevel
+[2021.08.04-00.40.35:978][207]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0008 seconds. Added 121 classes and 0 folders.
+[2021.08.04-00.40.37:053][207]LogSlate: Took 0.006739 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2021.08.04-00.40.38:496][281]LogSlate: Took 0.008712 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2021.08.04-00.40.38:821][301]LogSlate: Window 'MainMenuLevel' being destroyed
+[2021.08.04-00.40.41:407][441]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/Hui/Menu.Menu
+[2021.08.04-00.40.48:843][766]LogAIModule: Creating AISystem for world GameOverLevel
+[2021.08.04-00.40.48:847][766]LogAssetEditorManager: Opening Asset editor for World /Game/Hui/GameOverLevel.GameOverLevel
+[2021.08.04-00.40.48:912][766]LogUObjectHash: Compacting FUObjectHashTables data took   5.24ms
+[2021.08.04-00.40.48:913][766]Cmd: MAP LOAD FILE="../../../../../../Users/huiwa/OneDrive/Documents/Unreal Projects/Final_Project/Content/Hui/GameOverLevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.08.04-00.40.48:913][766]LightingResults: New page: Lighting Build
+[2021.08.04-00.40.48:914][766]LoadErrors: New page: Loading map: GameOverLevel.umap
+[2021.08.04-00.40.48:931][766]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2021.08.04-00.40.48:969][766]LogWorld: UWorld::CleanupWorld for MainMenuLevel, bSessionEnded=true, bCleanupResources=true
+[2021.08.04-00.40.48:969][766]MapCheck: New page: Map Check
+[2021.08.04-00.40.48:969][766]LightingResults: New page: Lighting Build
+[2021.08.04-00.40.49:013][766]LogUObjectHash: Compacting FUObjectHashTables data took   4.37ms
+[2021.08.04-00.40.49:185][766]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.08.04-00.40.49:227][766]LogUObjectHash: Compacting FUObjectHashTables data took   3.39ms
+[2021.08.04-00.40.49:252][766]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.08.04-00.40.49:252][766]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.145ms to complete.
+[2021.08.04-00.40.49:252][766]LogFileHelpers: Loading map 'GameOverLevel' took 0.340
+[2021.08.04-00.40.52:375][904]LogAIModule: Creating AISystem for world MainMenuLevel
+[2021.08.04-00.40.52:378][904]LogAssetEditorManager: Opening Asset editor for World /Game/Hui/MainMenuLevel.MainMenuLevel
+[2021.08.04-00.40.52:421][904]LogUObjectHash: Compacting FUObjectHashTables data took   3.22ms
+[2021.08.04-00.40.52:422][904]Cmd: MAP LOAD FILE="../../../../../../Users/huiwa/OneDrive/Documents/Unreal Projects/Final_Project/Content/Hui/MainMenuLevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.08.04-00.40.52:422][904]LightingResults: New page: Lighting Build
+[2021.08.04-00.40.52:422][904]LoadErrors: New page: Loading map: MainMenuLevel.umap
+[2021.08.04-00.40.52:423][904]LogWorld: UWorld::CleanupWorld for GameOverLevel, bSessionEnded=true, bCleanupResources=true
+[2021.08.04-00.40.52:423][904]MapCheck: New page: Map Check
+[2021.08.04-00.40.52:423][904]LightingResults: New page: Lighting Build
+[2021.08.04-00.40.52:462][904]LogUObjectHash: Compacting FUObjectHashTables data took   3.57ms
+[2021.08.04-00.40.52:626][904]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.08.04-00.40.52:667][904]LogUObjectHash: Compacting FUObjectHashTables data took   2.81ms
+[2021.08.04-00.40.52:691][904]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.08.04-00.40.52:691][904]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.149ms to complete.
+[2021.08.04-00.40.52:691][904]LogFileHelpers: Loading map 'MainMenuLevel' took 0.270
+[2021.08.04-00.40.54:571][982]LogAssetEditorManager: Opening Asset editor for LevelScriptBlueprint /Game/Hui/MainMenuLevel.MainMenuLevel:PersistentLevel.MainMenuLevel
+[2021.08.04-00.40.56:681][ 77]LogSlate: Window 'MainMenuLevel' being destroyed
+[2021.08.04-00.41.38:163][549]LogAIModule: Creating AISystem for world GameOverLevel
+[2021.08.04-00.41.38:165][549]LogAssetEditorManager: Opening Asset editor for World /Game/Hui/GameOverLevel.GameOverLevel
+[2021.08.04-00.41.38:204][549]LogUObjectHash: Compacting FUObjectHashTables data took   3.41ms
+[2021.08.04-00.41.38:204][549]Cmd: MAP LOAD FILE="../../../../../../Users/huiwa/OneDrive/Documents/Unreal Projects/Final_Project/Content/Hui/GameOverLevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.08.04-00.41.38:205][549]LightingResults: New page: Lighting Build
+[2021.08.04-00.41.38:205][549]LoadErrors: New page: Loading map: GameOverLevel.umap
+[2021.08.04-00.41.38:219][549]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2021.08.04-00.41.38:254][549]LogWorld: UWorld::CleanupWorld for MainMenuLevel, bSessionEnded=true, bCleanupResources=true
+[2021.08.04-00.41.38:254][549]MapCheck: New page: Map Check
+[2021.08.04-00.41.38:254][549]LightingResults: New page: Lighting Build
+[2021.08.04-00.41.38:300][549]LogUObjectHash: Compacting FUObjectHashTables data took   3.56ms
+[2021.08.04-00.41.38:542][549]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.08.04-00.41.38:582][549]LogUObjectHash: Compacting FUObjectHashTables data took   2.91ms
+[2021.08.04-00.41.38:605][549]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.08.04-00.41.38:606][549]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.152ms to complete.
+[2021.08.04-00.41.38:606][549]LogFileHelpers: Loading map 'GameOverLevel' took 0.402
+[2021.08.04-00.41.42:191][751]LogAssetEditorManager: Opening Asset editor for LevelScriptBlueprint /Game/Hui/GameOverLevel.GameOverLevel:PersistentLevel.GameOverLevel
+[2021.08.04-00.41.44:381][859]LogSlate: Window 'GameOverLevel' being destroyed
+[2021.08.04-00.41.53:226][344]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/Hui/HUD_Score.HUD_Score
+[2021.08.04-00.41.54:790][416]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/Hui/HUD_FinalScore.HUD_FinalScore
+[2021.08.04-00.41.59:906][669]LogSlate: Took 0.030975 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2021.08.04-00.42.24:920][102]LogEditorTransaction: Undo Move Widget
+[2021.08.04-00.42.28:523][274]LogEditorTransaction: Undo Move Widget
+[2021.08.04-00.44.39:208][532]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Hui/BP_Zombies.BP_Zombies
+[2021.08.04-00.45.22:499][713]BlueprintLog: New page: Compile BP_Zombies
+[2021.08.04-00.45.22:845][713]LogUObjectHash: Compacting FUObjectHashTables data took   5.35ms
+[2021.08.04-00.45.41:517][708]BlueprintLog: New page: Compile BP_Zombies
+[2021.08.04-00.45.41:787][708]LogUObjectHash: Compacting FUObjectHashTables data took   4.92ms
+[2021.08.04-00.45.42:307][722]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Hui/BP_Zombies" FILE="../../../../../../Users/huiwa/OneDrive/Documents/Unreal Projects/Final_Project/Content/Hui/BP_Zombies.uasset" SILENT=true
+[2021.08.04-00.45.42:406][722]LogSavePackage: Moving '../../../../../../Users/huiwa/OneDrive/Documents/Unreal Projects/Final_Project/Saved/BP_Zombies0018FC2D440365133CFD888DD33C9894.tmp' to '../../../../../../Users/huiwa/OneDrive/Documents/Unreal Projects/Final_Project/Content/Hui/BP_Zombies.uasset'
+[2021.08.04-00.45.44:359][834]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Hui/BP_Civilians.BP_Civilians
+[2021.08.04-00.46.35:760][482]BlueprintLog: New page: Compile BP_Civilians
+[2021.08.04-00.46.36:025][482]LogUObjectHash: Compacting FUObjectHashTables data took   4.83ms
+[2021.08.04-00.46.39:580][663]BlueprintLog: New page: Compile BP_Civilians
+[2021.08.04-00.46.39:850][663]LogUObjectHash: Compacting FUObjectHashTables data took   4.85ms
+[2021.08.04-00.46.40:182][672]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Hui/BP_Civilians" FILE="../../../../../../Users/huiwa/OneDrive/Documents/Unreal Projects/Final_Project/Content/Hui/BP_Civilians.uasset" SILENT=true
+[2021.08.04-00.46.40:227][672]LogSavePackage: Moving '../../../../../../Users/huiwa/OneDrive/Documents/Unreal Projects/Final_Project/Saved/BP_Civilians17F4759D497EB1A984ED1CADB51DF278.tmp' to '../../../../../../Users/huiwa/OneDrive/Documents/Unreal Projects/Final_Project/Content/Hui/BP_Civilians.uasset'
+[2021.08.04-00.47.25:237][806]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/FirstPersonBP/Blueprints/FirstPersonGameMode.FirstPersonGameMode
+[2021.08.04-00.47.29:278][ 13]LogRenderer: Reallocating scene render targets to support 1200x716 Format 9 NumSamples 1 (Frame:1).
+[2021.08.04-00.48.40:499][710]LogEditorTransaction: Undo Move Widget
+[2021.08.04-00.48.42:973][839]LogEditorSessionSummary: EditorSessionSummary sent report. Type=Shutdown, SessionId={A7F5060F-4D79-B807-2C3B-8384E98FFF00}
+[2021.08.04-00.49.22:044][147]LogSlate: Window 'Color Picker' being destroyed
+[2021.08.04-00.50.08:733][673]LogSlate: Window 'Color Picker' being destroyed
+[2021.08.04-00.50.16:950][163]BlueprintLog: New page: Compile HUD_FinalScore
+[2021.08.04-00.50.17:043][163]LogUObjectHash: Compacting FUObjectHashTables data took   6.96ms
+[2021.08.04-00.50.17:473][184]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Hui/HUD_FinalScore" FILE="../../../../../../Users/huiwa/OneDrive/Documents/Unreal Projects/Final_Project/Content/Hui/HUD_FinalScore.uasset" SILENT=true
+[2021.08.04-00.50.17:536][184]LogSavePackage: Moving '../../../../../../Users/huiwa/OneDrive/Documents/Unreal Projects/Final_Project/Saved/HUD_FinalScoreC76AFB4A4BC7B7DBA16BA395FCBDFA78.tmp' to '../../../../../../Users/huiwa/OneDrive/Documents/Unreal Projects/Final_Project/Content/Hui/HUD_FinalScore.uasset'
+[2021.08.04-00.50.19:885][314]LogTemp: Repeating last play command: Selected Viewport
+[2021.08.04-00.50.19:928][314]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Hui/GameOverLevel.GameOverLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Hui/GameOverLevel.GameOverLevel:PersistentLevel.GameOverLevel' with GeneratedClass '/Game/Hui/GameOverLevel.GameOverLevel_C' with ClassGeneratedBy '/Game/Hui/GameOverLevel.GameOverLevel:PersistentLevel.GameOverLevel'
+[2021.08.04-00.50.19:932][314]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.08.04-00.50.19:934][314]PIE: New page: PIE session: GameOverLevel (Aug 3, 2021, 4:50:19 PM)
+[2021.08.04-00.50.19:956][314]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2021.08.04-00.50.19:964][314]LogPlayLevel: Creating play world package: /Game/Hui/UEDPIE_0_GameOverLevel
+[2021.08.04-00.50.19:968][314]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003007s)
+[2021.08.04-00.50.19:970][314]LogAIModule: Creating AISystem for world GameOverLevel
+[2021.08.04-00.50.19:975][314]LogPlayLevel: PIE: World Init took: (0.006490s)
+[2021.08.04-00.50.19:975][314]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Hui/GameOverLevel.GameOverLevel to /Game/Hui/UEDPIE_0_GameOverLevel.GameOverLevel (0.011344s)
+[2021.08.04-00.50.20:036][314]LogUObjectHash: Compacting FUObjectHashTables data took   5.43ms
+[2021.08.04-00.50.20:057][314]LogInit: XAudio2 using 'R240HY (Intel(R) Display Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2021.08.04-00.50.20:242][314]LogInit: FAudioDevice initialized.
+[2021.08.04-00.50.20:272][314]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.08.04-00.50.20:273][314]LogWorld: Bringing World /Game/Hui/UEDPIE_0_GameOverLevel.GameOverLevel up for play (max tick rate 60) at 2021.08.03-20.50.20
+[2021.08.04-00.50.20:276][314]LogWorld: Bringing up level for play took: 0.002774
+[2021.08.04-00.50.20:278][314]LogOnline: OSS: Creating online subsystem instance for: :Context_19
+[2021.08.04-00.50.20:313][314]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0008 seconds. Added 20 classes and 0 folders.
+[2021.08.04-00.50.20:331][314]PIE: Play in editor start time for /Game/Hui/UEDPIE_0_GameOverLevel 0.134
+[2021.08.04-00.50.20:332][314]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Hui/GameOverLevel.GameOverLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Hui/GameOverLevel.GameOverLevel:PersistentLevel.GameOverLevel' with GeneratedClass '/Game/Hui/GameOverLevel.GameOverLevel_C' with ClassGeneratedBy '/Game/Hui/GameOverLevel.GameOverLevel:PersistentLevel.GameOverLevel'
+[2021.08.04-00.50.32:836][872]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Hui/GameOverLevel.GameOverLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Hui/GameOverLevel.GameOverLevel:PersistentLevel.GameOverLevel' with GeneratedClass '/Game/Hui/GameOverLevel.GameOverLevel_C' with ClassGeneratedBy '/Game/Hui/GameOverLevel.GameOverLevel:PersistentLevel.GameOverLevel'
+[2021.08.04-00.50.32:837][872]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.04-00.50.32:837][872]LogWorld: BeginTearingDown for /Game/Hui/UEDPIE_0_GameOverLevel
+[2021.08.04-00.50.32:838][872]LogWorld: UWorld::CleanupWorld for GameOverLevel, bSessionEnded=true, bCleanupResources=true
+[2021.08.04-00.50.32:867][872]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.08.04-00.50.32:868][872]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Hui/GameOverLevel.GameOverLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Hui/GameOverLevel.GameOverLevel:PersistentLevel.GameOverLevel' with GeneratedClass '/Game/Hui/GameOverLevel.GameOverLevel_C' with ClassGeneratedBy '/Game/Hui/GameOverLevel.GameOverLevel:PersistentLevel.GameOverLevel'
+[2021.08.04-00.50.32:966][872]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.04-00.50.33:013][872]LogUObjectHash: Compacting FUObjectHashTables data took   9.31ms
+[2021.08.04-00.50.33:035][873]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2021.08.04-00.50.42:988][431]LogEditorSessionSummary: EditorSessionSummary sent report. Type=Shutdown, SessionId={87BF8A9D-4ED2-DD05-14F5-4BABD6DED2BF}
+[2021.08.04-00.50.42:988][431]LogEditorSessionSummary: EditorSessionSummary sent report. Type=Shutdown, SessionId={20B8D9B2-4CFB-C054-2CBE-4CB0073DCADC}
+[2021.08.04-00.51.10:955][ 38]LogAIModule: Creating AISystem for world MainMenuLevel
+[2021.08.04-00.51.10:959][ 38]LogAssetEditorManager: Opening Asset editor for World /Game/Hui/MainMenuLevel.MainMenuLevel
+[2021.08.04-00.51.11:064][ 38]LogUObjectHash: Compacting FUObjectHashTables data took   8.59ms
+[2021.08.04-00.51.13:603][ 38]LogSlate: Window 'Save Content' being destroyed
+[2021.08.04-00.51.13:608][ 38]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Hui/HUD_FinalScore" FILE="../../../../../../Users/huiwa/OneDrive/Documents/Unreal Projects/Final_Project/Content/Hui/HUD_FinalScore.uasset" SILENT=true
+[2021.08.04-00.51.13:639][ 38]LogSavePackage: Moving '../../../../../../Users/huiwa/OneDrive/Documents/Unreal Projects/Final_Project/Saved/HUD_FinalScore2F121DD441DAE1A2F8486B930F4CEC8B.tmp' to '../../../../../../Users/huiwa/OneDrive/Documents/Unreal Projects/Final_Project/Content/Hui/HUD_FinalScore.uasset'
+[2021.08.04-00.51.13:642][ 38]Cmd: MAP LOAD FILE="../../../../../../Users/huiwa/OneDrive/Documents/Unreal Projects/Final_Project/Content/Hui/MainMenuLevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.08.04-00.51.13:642][ 38]LightingResults: New page: Lighting Build
+[2021.08.04-00.51.13:644][ 38]LoadErrors: New page: Loading map: MainMenuLevel.umap
+[2021.08.04-00.51.13:658][ 38]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2021.08.04-00.51.13:733][ 38]LogWorld: UWorld::CleanupWorld for GameOverLevel, bSessionEnded=true, bCleanupResources=true
+[2021.08.04-00.51.13:733][ 38]MapCheck: New page: Map Check
+[2021.08.04-00.51.13:733][ 38]LightingResults: New page: Lighting Build
+[2021.08.04-00.51.13:795][ 38]LogUObjectHash: Compacting FUObjectHashTables data took   6.07ms
+[2021.08.04-00.51.14:109][ 38]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.08.04-00.51.14:172][ 38]LogUObjectHash: Compacting FUObjectHashTables data took   4.61ms
+[2021.08.04-00.51.14:204][ 38]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.08.04-00.51.14:205][ 38]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.161ms to complete.
+[2021.08.04-00.51.14:205][ 38]LogFileHelpers: Loading map 'MainMenuLevel' took 0.564
+[2021.08.04-00.51.16:539][172]LogTemp: Repeating last play command: Selected Viewport
+[2021.08.04-00.51.16:588][172]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Hui/MainMenuLevel.MainMenuLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Hui/MainMenuLevel.MainMenuLevel:PersistentLevel.MainMenuLevel' with GeneratedClass '/Game/Hui/MainMenuLevel.MainMenuLevel_C' with ClassGeneratedBy '/Game/Hui/MainMenuLevel.MainMenuLevel:PersistentLevel.MainMenuLevel'
+[2021.08.04-00.51.16:588][172]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.08.04-00.51.16:588][172]PIE: New page: PIE session: MainMenuLevel (Aug 3, 2021, 4:51:16 PM)
+[2021.08.04-00.51.16:588][172]LogPlayLevel: Creating play world package: /Game/Hui/UEDPIE_0_MainMenuLevel
+[2021.08.04-00.51.16:590][172]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001318s)
+[2021.08.04-00.51.16:591][172]LogAIModule: Creating AISystem for world MainMenuLevel
+[2021.08.04-00.51.16:591][172]LogPlayLevel: PIE: World Init took: (0.001225s)
+[2021.08.04-00.51.16:591][172]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Hui/MainMenuLevel.MainMenuLevel to /Game/Hui/UEDPIE_0_MainMenuLevel.MainMenuLevel (0.002830s)
+[2021.08.04-00.51.16:663][172]LogUObjectHash: Compacting FUObjectHashTables data took   5.58ms
+[2021.08.04-00.51.16:669][172]LogInit: XAudio2 using 'R240HY (Intel(R) Display Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2021.08.04-00.51.16:861][172]LogInit: FAudioDevice initialized.
+[2021.08.04-00.51.16:881][172]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.08.04-00.51.16:882][172]LogWorld: Bringing World /Game/Hui/UEDPIE_0_MainMenuLevel.MainMenuLevel up for play (max tick rate 60) at 2021.08.03-20.51.16
+[2021.08.04-00.51.16:882][172]LogWorld: Bringing up level for play took: 0.000789
+[2021.08.04-00.51.16:883][172]LogOnline: OSS: Creating online subsystem instance for: :Context_20
+[2021.08.04-00.51.16:888][172]PIE: Play in editor start time for /Game/Hui/UEDPIE_0_MainMenuLevel 0.69
+[2021.08.04-00.51.16:888][172]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Hui/MainMenuLevel.MainMenuLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Hui/MainMenuLevel.MainMenuLevel:PersistentLevel.MainMenuLevel' with GeneratedClass '/Game/Hui/MainMenuLevel.MainMenuLevel_C' with ClassGeneratedBy '/Game/Hui/MainMenuLevel.MainMenuLevel:PersistentLevel.MainMenuLevel'
+[2021.08.04-00.51.17:718][216]LogNet: Browse: /Game/Hui/Main_Level
+[2021.08.04-00.51.17:719][216]LogLoad: LoadMap: /Game/Hui/Main_Level
+[2021.08.04-00.51.17:719][216]LogWorld: BeginTearingDown for /Game/Hui/UEDPIE_0_MainMenuLevel
+[2021.08.04-00.51.17:723][216]LogWorld: UWorld::CleanupWorld for MainMenuLevel, bSessionEnded=true, bCleanupResources=true
+[2021.08.04-00.51.17:810][216]LogUObjectHash: Compacting FUObjectHashTables data took   5.61ms
+[2021.08.04-00.51.18:715][216]LogAIModule: Creating AISystem for world Main_Level
+[2021.08.04-00.51.18:715][216]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.08.04-00.51.18:742][216]LogWorld: Bringing World /Game/Hui/UEDPIE_0_Main_Level.Main_Level up for play (max tick rate 60) at 2021.08.03-20.51.18
+[2021.08.04-00.51.18:745][216]LogWorld: Bringing up level for play took: 0.028137
+[2021.08.04-00.51.18:765][216]LogLoad: Took 1.046113 seconds to LoadMap(/Game/Hui/Main_Level)
+[2021.08.04-00.51.27:922][451]LogBlueprintUserMessages: [BP_Zombies_C_0] Hit
+[2021.08.04-00.51.29:036][481]LogBlueprintUserMessages: [BP_Zombies_C_0] Hit
+[2021.08.04-00.51.29:036][481]LogBlueprintUserMessages: [BP_Zombies_C_0] Zombie Killed!   +100
+[2021.08.04-00.51.32:484][596]LogBlueprintUserMessages: [BP_Zombies_C_2] Hit
+[2021.08.04-00.51.32:667][602]LogBlueprintUserMessages: [BP_Zombies_C_2] Hit
+[2021.08.04-00.51.32:667][602]LogBlueprintUserMessages: [BP_Zombies_C_2] Zombie Killed!   +100
+[2021.08.04-00.51.34:302][650]LogBlueprintUserMessages: [BP_Civilians_C_0] Hit
+[2021.08.04-00.51.34:428][654]LogBlueprintUserMessages: [BP_Civilians_C_0] Hit
+[2021.08.04-00.51.35:827][695]LogBlueprintUserMessages: [BP_Zombies_C_3] Hit
+[2021.08.04-00.51.36:399][712]LogBlueprintUserMessages: [BP_Zombies_C_3] Hit
+[2021.08.04-00.51.36:402][712]LogBlueprintUserMessages: [BP_Zombies_C_3] Zombie Killed!   +100
+[2021.08.04-00.51.36:622][719]LogBlueprintUserMessages: [BP_Bunker_7] ZOMBIE IN THE BUNKER!
+[2021.08.04-00.51.36:655][720]LogNet: Browse: /Game/Hui/GameOverLevel
+[2021.08.04-00.51.36:655][720]LogLoad: LoadMap: /Game/Hui/GameOverLevel
+[2021.08.04-00.51.36:655][720]LogWorld: BeginTearingDown for /Game/Hui/UEDPIE_0_Main_Level
+[2021.08.04-00.51.36:656][720]LogWorld: UWorld::CleanupWorld for Main_Level, bSessionEnded=true, bCleanupResources=true
+[2021.08.04-00.51.36:918][720]LogUObjectHash: Compacting FUObjectHashTables data took  15.62ms
+[2021.08.04-00.51.36:951][720]LogAIModule: Creating AISystem for world GameOverLevel
+[2021.08.04-00.51.36:952][720]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.08.04-00.51.36:955][720]LogWorld: Bringing World /Game/Hui/UEDPIE_0_GameOverLevel.GameOverLevel up for play (max tick rate 60) at 2021.08.03-20.51.36
+[2021.08.04-00.51.36:955][720]LogWorld: Bringing up level for play took: 0.001489
+[2021.08.04-00.51.36:956][720]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2021.08.04-00.51.36:965][720]LogLoad: Took 0.310465 seconds to LoadMap(/Game/Hui/GameOverLevel)
+[2021.08.04-00.51.41:031][947]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.08.04-00.51.41:117][952]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.04-00.51.41:117][952]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Hui/MainMenuLevel.MainMenuLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Hui/MainMenuLevel.MainMenuLevel:PersistentLevel.MainMenuLevel' with GeneratedClass '/Game/Hui/MainMenuLevel.MainMenuLevel_C' with ClassGeneratedBy '/Game/Hui/MainMenuLevel.MainMenuLevel:PersistentLevel.MainMenuLevel'
+[2021.08.04-00.51.41:117][952]LogWorld: BeginTearingDown for /Game/Hui/UEDPIE_0_GameOverLevel
+[2021.08.04-00.51.41:118][952]LogWorld: UWorld::CleanupWorld for GameOverLevel, bSessionEnded=true, bCleanupResources=true
+[2021.08.04-00.51.41:134][952]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.08.04-00.51.41:135][952]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Hui/MainMenuLevel.MainMenuLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Hui/MainMenuLevel.MainMenuLevel:PersistentLevel.MainMenuLevel' with GeneratedClass '/Game/Hui/MainMenuLevel.MainMenuLevel_C' with ClassGeneratedBy '/Game/Hui/MainMenuLevel.MainMenuLevel:PersistentLevel.MainMenuLevel'
+[2021.08.04-00.51.41:265][952]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.04-00.51.41:276][952]LogUObjectHash: Compacting FUObjectHashTables data took   8.30ms
+[2021.08.04-00.51.41:325][953]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2021.08.04-00.51.56:573][678]LogAssetEditorManager: Opening Asset editor for LevelScriptBlueprint /Game/Hui/MainMenuLevel.MainMenuLevel:PersistentLevel.MainMenuLevel
+[2021.08.04-00.52.13:237][494]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Hui/BP_Bunker.BP_Bunker
+[2021.08.04-00.52.24:093][ 59]BlueprintLog: New page: Compile BP_Bunker
+[2021.08.04-00.52.24:528][ 59]LogUObjectHash: Compacting FUObjectHashTables data took   6.59ms
+[2021.08.04-00.53.46:380][525]BlueprintLog: New page: Compile HUD_FinalScore
+[2021.08.04-00.53.46:452][525]LogUObjectHash: Compacting FUObjectHashTables data took   6.76ms
+[2021.08.04-00.53.51:381][765]LogAIModule: Creating AISystem for world GameOverLevel
+[2021.08.04-00.53.51:386][765]LogAssetEditorManager: Opening Asset editor for World /Game/Hui/GameOverLevel.GameOverLevel
+[2021.08.04-00.53.51:509][765]LogUObjectHash: Compacting FUObjectHashTables data took  10.70ms
+[2021.08.04-00.53.53:130][765]LogSlate: Window 'Save Content' being destroyed
+[2021.08.04-00.53.53:136][765]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Hui/BP_Bunker" FILE="../../../../../../Users/huiwa/OneDrive/Documents/Unreal Projects/Final_Project/Content/Hui/BP_Bunker.uasset" SILENT=true
+[2021.08.04-00.53.53:173][765]LogSavePackage: Moving '../../../../../../Users/huiwa/OneDrive/Documents/Unreal Projects/Final_Project/Saved/BP_Bunker6547FEC74E4FE905FCFD328EE8309DB9.tmp' to '../../../../../../Users/huiwa/OneDrive/Documents/Unreal Projects/Final_Project/Content/Hui/BP_Bunker.uasset'
+[2021.08.04-00.53.53:176][765]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Hui/HUD_FinalScore" FILE="../../../../../../Users/huiwa/OneDrive/Documents/Unreal Projects/Final_Project/Content/Hui/HUD_FinalScore.uasset" SILENT=true
+[2021.08.04-00.53.53:211][765]LogSavePackage: Moving '../../../../../../Users/huiwa/OneDrive/Documents/Unreal Projects/Final_Project/Saved/HUD_FinalScore921A138F44D425717A1847B97C3ADE57.tmp' to '../../../../../../Users/huiwa/OneDrive/Documents/Unreal Projects/Final_Project/Content/Hui/HUD_FinalScore.uasset'
+[2021.08.04-00.53.53:215][765]Cmd: MAP LOAD FILE="../../../../../../Users/huiwa/OneDrive/Documents/Unreal Projects/Final_Project/Content/Hui/GameOverLevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.08.04-00.53.53:215][765]LightingResults: New page: Lighting Build
+[2021.08.04-00.53.53:216][765]LoadErrors: New page: Loading map: GameOverLevel.umap
+[2021.08.04-00.53.53:238][765]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2021.08.04-00.53.53:286][765]LogWorld: UWorld::CleanupWorld for MainMenuLevel, bSessionEnded=true, bCleanupResources=true
+[2021.08.04-00.53.53:286][765]MapCheck: New page: Map Check
+[2021.08.04-00.53.53:286][765]LightingResults: New page: Lighting Build
+[2021.08.04-00.53.53:359][765]LogUObjectHash: Compacting FUObjectHashTables data took   5.56ms
+[2021.08.04-00.53.53:863][765]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.08.04-00.53.53:938][765]LogUObjectHash: Compacting FUObjectHashTables data took   4.83ms
+[2021.08.04-00.53.53:970][765]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.08.04-00.53.53:971][765]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.173ms to complete.
+[2021.08.04-00.53.53:971][765]LogFileHelpers: Loading map 'GameOverLevel' took 0.757
+[2021.08.04-00.53.57:290][937]LogAssetEditorManager: Opening Asset editor for LevelScriptBlueprint /Game/Hui/GameOverLevel.GameOverLevel:PersistentLevel.GameOverLevel
+[2021.08.04-00.55.08:802][ 67]LogAIModule: Creating AISystem for world Main_Level
+[2021.08.04-00.55.08:831][ 67]LogAssetEditorManager: Opening Asset editor for World /Game/Hui/Main_Level.Main_Level
+[2021.08.04-00.55.08:913][ 67]LogUObjectHash: Compacting FUObjectHashTables data took   7.30ms
+[2021.08.04-00.55.08:915][ 67]Cmd: MAP LOAD FILE="../../../../../../Users/huiwa/OneDrive/Documents/Unreal Projects/Final_Project/Content/Hui/Main_Level.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.08.04-00.55.08:915][ 67]LightingResults: New page: Lighting Build
+[2021.08.04-00.55.08:915][ 67]LoadErrors: New page: Loading map: Main_Level.umap
+[2021.08.04-00.55.08:939][ 67]LogWorld: UWorld::CleanupWorld for World_23, bSessionEnded=true, bCleanupResources=true
+[2021.08.04-00.55.08:999][ 67]LogWorld: UWorld::CleanupWorld for GameOverLevel, bSessionEnded=true, bCleanupResources=true
+[2021.08.04-00.55.08:999][ 67]MapCheck: New page: Map Check
+[2021.08.04-00.55.08:999][ 67]LightingResults: New page: Lighting Build
+[2021.08.04-00.55.09:078][ 67]LogUObjectHash: Compacting FUObjectHashTables data took   6.24ms
+[2021.08.04-00.55.09:628][ 67]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.08.04-00.55.09:729][ 67]LogUObjectHash: Compacting FUObjectHashTables data took   4.42ms
+[2021.08.04-00.55.09:755][ 67]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.08.04-00.55.09:756][ 67]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.173ms to complete.
+[2021.08.04-00.55.09:756][ 67]LogFileHelpers: Loading map 'Main_Level' took 0.842
+[2021.08.04-00.55.14:840][342]LogAssetEditorManager: Opening Asset editor for LevelScriptBlueprint /Game/Hui/Main_Level.Main_Level:PersistentLevel.Main_Level
+[2021.08.04-00.55.40:361][410]LogEditorViewport: Clicking on Actor (LMB): BP_Bunker_C (BP_Bunker)
+[2021.08.04-00.55.41:803][484]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.08.04-00.55.46:250][743]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.08.04-00.56.18:585][398]LogAIModule: Creating AISystem for world GameOverLevel
+[2021.08.04-00.56.26:048][818]BlueprintLog: New page: Compile Main_Level
+[2021.08.04-00.56.26:450][818]LogUObjectHash: Compacting FUObjectHashTables data took   5.62ms
+[2021.08.04-00.56.26:848][832]LogUObjectHash: Compacting FUObjectHashTables data took   5.35ms
+[2021.08.04-00.56.27:236][832]LogSavePackage: Moving '../../../../../../Users/huiwa/OneDrive/Documents/Unreal Projects/Final_Project/Saved/Main_LevelD113B60B49B48A7DE9F727BDE0A9363A.tmp' to '../../../../../../Users/huiwa/OneDrive/Documents/Unreal Projects/Final_Project/Content/Hui/Main_Level.umap'
+[2021.08.04-00.56.27:269][832]LogFileHelpers: Saving map 'Main_Level' took 0.495
+[2021.08.04-00.56.32:633][113]BlueprintLog: New page: Compile BP_Bunker
+[2021.08.04-00.56.33:015][113]LogUObjectHash: Compacting FUObjectHashTables data took   6.15ms
+[2021.08.04-00.56.33:201][119]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Hui/BP_Bunker" FILE="../../../../../../Users/huiwa/OneDrive/Documents/Unreal Projects/Final_Project/Content/Hui/BP_Bunker.uasset" SILENT=true
+[2021.08.04-00.56.33:246][119]LogSavePackage: Moving '../../../../../../Users/huiwa/OneDrive/Documents/Unreal Projects/Final_Project/Saved/BP_BunkerFD4FE7B54E745F2291B3749B376FF5E9.tmp' to '../../../../../../Users/huiwa/OneDrive/Documents/Unreal Projects/Final_Project/Content/Hui/BP_Bunker.uasset'
+[2021.08.04-00.56.38:961][438]BlueprintLog: New page: Compile Main_Level
+[2021.08.04-00.56.39:328][438]LogUObjectHash: Compacting FUObjectHashTables data took   6.37ms
+[2021.08.04-00.56.44:785][708]LogAIModule: Creating AISystem for world MainMenuLevel
+[2021.08.04-00.56.44:790][708]LogAssetEditorManager: Opening Asset editor for World /Game/Hui/MainMenuLevel.MainMenuLevel
+[2021.08.04-00.56.44:870][708]LogUObjectHash: Compacting FUObjectHashTables data took   6.33ms
+[2021.08.04-00.56.46:001][708]LogSlate: Window 'Save Content' being destroyed
+[2021.08.04-00.56.46:059][708]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2021.08.04-00.56.46:387][708]LogSavePackage: Moving '../../../../../../Users/huiwa/OneDrive/Documents/Unreal Projects/Final_Project/Saved/Main_Level2834E83A4257FB2858379898C5EA3F73.tmp' to '../../../../../../Users/huiwa/OneDrive/Documents/Unreal Projects/Final_Project/Content/Hui/Main_Level.umap'
+[2021.08.04-00.56.46:417][708]LogFileHelpers: Saving map 'Main_Level' took 0.411
+[2021.08.04-00.56.46:419][708]Cmd: MAP LOAD FILE="../../../../../../Users/huiwa/OneDrive/Documents/Unreal Projects/Final_Project/Content/Hui/MainMenuLevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.08.04-00.56.46:419][708]LightingResults: New page: Lighting Build
+[2021.08.04-00.56.46:420][708]LoadErrors: New page: Loading map: MainMenuLevel.umap
+[2021.08.04-00.56.46:436][708]LogWorld: UWorld::CleanupWorld for World_24, bSessionEnded=true, bCleanupResources=true
+[2021.08.04-00.56.46:480][708]LogWorld: UWorld::CleanupWorld for Main_Level, bSessionEnded=true, bCleanupResources=true
+[2021.08.04-00.56.46:484][708]MapCheck: New page: Map Check
+[2021.08.04-00.56.46:484][708]LightingResults: New page: Lighting Build
+[2021.08.04-00.56.46:550][708]LogUObjectHash: Compacting FUObjectHashTables data took   4.98ms
+[2021.08.04-00.56.46:615][708]LogUObjectHash: Compacting FUObjectHashTables data took   5.41ms
+[2021.08.04-00.56.46:675][708]LogUObjectHash: Compacting FUObjectHashTables data took   3.71ms
+[2021.08.04-00.56.47:104][708]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.08.04-00.56.47:159][708]LogUObjectHash: Compacting FUObjectHashTables data took   4.03ms
+[2021.08.04-00.56.47:188][708]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.08.04-00.56.47:188][708]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.172ms to complete.
+[2021.08.04-00.56.47:188][708]LogFileHelpers: Loading map 'MainMenuLevel' took 0.771
+[2021.08.04-00.56.47:259][708]LogAIModule: Creating AISystem for world Main_Level
+[2021.08.04-00.56.56:309][978]LogTemp: Repeating last play command: Selected Viewport
+[2021.08.04-00.56.56:349][978]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Hui/MainMenuLevel.MainMenuLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Hui/MainMenuLevel.MainMenuLevel:PersistentLevel.MainMenuLevel' with GeneratedClass '/Game/Hui/MainMenuLevel.MainMenuLevel_C' with ClassGeneratedBy '/Game/Hui/MainMenuLevel.MainMenuLevel:PersistentLevel.MainMenuLevel'
+[2021.08.04-00.56.56:349][978]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.08.04-00.56.56:349][978]PIE: New page: PIE session: MainMenuLevel (Aug 3, 2021, 4:56:56 PM)
+[2021.08.04-00.56.56:349][978]LogPlayLevel: Creating play world package: /Game/Hui/UEDPIE_0_MainMenuLevel
+[2021.08.04-00.56.56:351][978]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001027s)
+[2021.08.04-00.56.56:351][978]LogAIModule: Creating AISystem for world MainMenuLevel
+[2021.08.04-00.56.56:351][978]LogPlayLevel: PIE: World Init took: (0.000878s)
+[2021.08.04-00.56.56:351][978]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Hui/MainMenuLevel.MainMenuLevel to /Game/Hui/UEDPIE_0_MainMenuLevel.MainMenuLevel (0.002000s)
+[2021.08.04-00.56.56:406][978]LogUObjectHash: Compacting FUObjectHashTables data took   4.53ms
+[2021.08.04-00.56.56:411][978]LogInit: XAudio2 using 'R240HY (Intel(R) Display Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2021.08.04-00.56.56:554][978]LogInit: FAudioDevice initialized.
+[2021.08.04-00.56.56:563][978]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.08.04-00.56.56:564][978]LogWorld: Bringing World /Game/Hui/UEDPIE_0_MainMenuLevel.MainMenuLevel up for play (max tick rate 60) at 2021.08.03-20.56.56
+[2021.08.04-00.56.56:564][978]LogWorld: Bringing up level for play took: 0.000327
+[2021.08.04-00.56.56:565][978]LogOnline: OSS: Creating online subsystem instance for: :Context_28
+[2021.08.04-00.56.56:569][978]PIE: Play in editor start time for /Game/Hui/UEDPIE_0_MainMenuLevel 0.372
+[2021.08.04-00.56.56:569][978]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Hui/MainMenuLevel.MainMenuLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Hui/MainMenuLevel.MainMenuLevel:PersistentLevel.MainMenuLevel' with GeneratedClass '/Game/Hui/MainMenuLevel.MainMenuLevel_C' with ClassGeneratedBy '/Game/Hui/MainMenuLevel.MainMenuLevel:PersistentLevel.MainMenuLevel'
+[2021.08.04-00.56.57:617][ 30]LogNet: Browse: /Game/Hui/Main_Level
+[2021.08.04-00.56.57:618][ 30]LogLoad: LoadMap: /Game/Hui/Main_Level
+[2021.08.04-00.56.57:618][ 30]LogWorld: BeginTearingDown for /Game/Hui/UEDPIE_0_MainMenuLevel
+[2021.08.04-00.56.57:618][ 30]LogWorld: UWorld::CleanupWorld for MainMenuLevel, bSessionEnded=true, bCleanupResources=true
+[2021.08.04-00.56.57:717][ 30]LogUObjectHash: Compacting FUObjectHashTables data took   6.69ms
+[2021.08.04-00.56.57:717][ 30]LogPlayLevel: Creating play world package: /Game/Hui/UEDPIE_0_Main_Level
+[2021.08.04-00.56.57:730][ 30]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012083s)
+[2021.08.04-00.56.57:731][ 30]LogAIModule: Creating AISystem for world Main_Level
+[2021.08.04-00.56.57:733][ 30]LogPlayLevel: PIE: World Init took: (0.003031s)
+[2021.08.04-00.56.57:733][ 30]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Hui/Main_Level.Main_Level to /Game/Hui/UEDPIE_0_Main_Level.Main_Level (0.015588s)
+[2021.08.04-00.56.57:733][ 30]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.08.04-00.56.57:736][ 30]LogWorld: Bringing World /Game/Hui/UEDPIE_0_Main_Level.Main_Level up for play (max tick rate 60) at 2021.08.03-20.56.57
+[2021.08.04-00.56.57:736][ 30]LogWorld: Bringing up level for play took: 0.002625
+[2021.08.04-00.56.57:742][ 30]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.08.04-00.56.57:742][ 30]LogLoad: Took 0.124742 seconds to LoadMap(/Game/Hui/UEDPIE_0_Main_Level)
+[2021.08.04-00.57.09:464][458]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Hui/MainMenuLevel.MainMenuLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Hui/MainMenuLevel.MainMenuLevel:PersistentLevel.MainMenuLevel' with GeneratedClass '/Game/Hui/MainMenuLevel.MainMenuLevel_C' with ClassGeneratedBy '/Game/Hui/MainMenuLevel.MainMenuLevel:PersistentLevel.MainMenuLevel'
+[2021.08.04-00.57.09:464][458]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.04-00.57.09:464][458]LogWorld: BeginTearingDown for /Game/Hui/UEDPIE_0_Main_Level
+[2021.08.04-00.57.09:465][458]LogWorld: UWorld::CleanupWorld for Main_Level, bSessionEnded=true, bCleanupResources=true
+[2021.08.04-00.57.09:515][458]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.08.04-00.57.09:515][458]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Hui/MainMenuLevel.MainMenuLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Hui/MainMenuLevel.MainMenuLevel:PersistentLevel.MainMenuLevel' with GeneratedClass '/Game/Hui/MainMenuLevel.MainMenuLevel_C' with ClassGeneratedBy '/Game/Hui/MainMenuLevel.MainMenuLevel:PersistentLevel.MainMenuLevel'
+[2021.08.04-00.57.09:611][458]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.04-00.57.09:619][458]LogUObjectHash: Compacting FUObjectHashTables data took   5.67ms
+[2021.08.04-00.57.09:641][459]LogPlayLevel: Display: Destroying online subsystem :Context_28
+[2021.08.04-00.57.12:225][591]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.08.04-00.57.12:367][599]LogAssetEditorManager: Opening Asset editor for World /Game/Hui/Main_Level.Main_Level
+[2021.08.04-00.57.12:445][599]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2021.08.04-00.57.12:446][599]Cmd: MAP LOAD FILE="../../../../../../Users/huiwa/OneDrive/Documents/Unreal Projects/Final_Project/Content/Hui/Main_Level.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.08.04-00.57.12:446][599]LightingResults: New page: Lighting Build
+[2021.08.04-00.57.12:447][599]LoadErrors: New page: Loading map: Main_Level.umap
+[2021.08.04-00.57.12:447][599]LogWorld: UWorld::CleanupWorld for MainMenuLevel, bSessionEnded=true, bCleanupResources=true
+[2021.08.04-00.57.12:447][599]MapCheck: New page: Map Check
+[2021.08.04-00.57.12:447][599]LightingResults: New page: Lighting Build
+[2021.08.04-00.57.12:527][599]LogUObjectHash: Compacting FUObjectHashTables data took   6.51ms
+[2021.08.04-00.57.13:188][599]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.08.04-00.57.13:249][599]LogUObjectHash: Compacting FUObjectHashTables data took   4.27ms
+[2021.08.04-00.57.13:280][599]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.08.04-00.57.13:280][599]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.17ms to complete.
+[2021.08.04-00.57.13:283][599]LogFileHelpers: Loading map 'Main_Level' took 0.838
+[2021.08.04-00.57.31:768][362]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.08.04-00.57.35:015][507]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.08.04-00.57.35:266][510]LogUObjectHash: Compacting FUObjectHashTables data took   4.61ms
+[2021.08.04-00.57.35:646][510]LogSavePackage: Moving '../../../../../../Users/huiwa/OneDrive/Documents/Unreal Projects/Final_Project/Saved/Main_LevelEC62565C457BE27D71F9EAB6FB9F1BAB.tmp' to '../../../../../../Users/huiwa/OneDrive/Documents/Unreal Projects/Final_Project/Content/Hui/Main_Level.umap'
+[2021.08.04-00.57.35:679][510]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Hui/Main_Level_BuiltData" FILE="../../../../../../Users/huiwa/OneDrive/Documents/Unreal Projects/Final_Project/Content/Hui/Main_Level_BuiltData.uasset" SILENT=true
+[2021.08.04-00.57.35:827][510]LogSavePackage: Moving '../../../../../../Users/huiwa/OneDrive/Documents/Unreal Projects/Final_Project/Saved/Main_Level_BuiltDataD25294F945AE3F2AA100CA8E900B9912.tmp' to '../../../../../../Users/huiwa/OneDrive/Documents/Unreal Projects/Final_Project/Content/Hui/Main_Level_BuiltData.uasset'
+[2021.08.04-00.57.36:238][526]LogTemp: Repeating last play command: Selected Viewport
+[2021.08.04-00.57.36:289][526]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Hui/Main_Level.Main_Level:PersistentLevel' has LevelScriptBlueprint '/Game/Hui/Main_Level.Main_Level:PersistentLevel.Main_Level' with GeneratedClass '/Game/Hui/Main_Level.Main_Level_C' with ClassGeneratedBy '/Game/Hui/Main_Level.Main_Level:PersistentLevel.Main_Level'
+[2021.08.04-00.57.36:290][526]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.08.04-00.57.36:290][526]PIE: New page: PIE session: Main_Level (Aug 3, 2021, 4:57:36 PM)
+[2021.08.04-00.57.36:290][526]LogPlayLevel: Creating play world package: /Game/Hui/UEDPIE_0_Main_Level
+[2021.08.04-00.57.36:299][526]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009188s)
+[2021.08.04-00.57.36:300][526]LogAIModule: Creating AISystem for world Main_Level
+[2021.08.04-00.57.36:300][526]LogPlayLevel: PIE: World Init took: (0.001152s)
+[2021.08.04-00.57.36:300][526]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Hui/Main_Level.Main_Level to /Game/Hui/UEDPIE_0_Main_Level.Main_Level (0.010502s)
+[2021.08.04-00.57.36:367][526]LogUObjectHash: Compacting FUObjectHashTables data took   5.47ms
+[2021.08.04-00.57.36:375][526]LogInit: XAudio2 using 'R240HY (Intel(R) Display Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2021.08.04-00.57.36:527][526]LogInit: FAudioDevice initialized.
+[2021.08.04-00.57.36:535][526]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.08.04-00.57.36:537][526]LogWorld: Bringing World /Game/Hui/UEDPIE_0_Main_Level.Main_Level up for play (max tick rate 60) at 2021.08.03-20.57.36
+[2021.08.04-00.57.36:538][526]LogWorld: Bringing up level for play took: 0.002399
+[2021.08.04-00.57.36:538][526]LogOnline: OSS: Creating online subsystem instance for: :Context_29
+[2021.08.04-00.57.36:543][526]PIE: Play in editor start time for /Game/Hui/UEDPIE_0_Main_Level 0.346
+[2021.08.04-00.57.36:543][526]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Hui/Main_Level.Main_Level:PersistentLevel' has LevelScriptBlueprint '/Game/Hui/Main_Level.Main_Level:PersistentLevel.Main_Level' with GeneratedClass '/Game/Hui/Main_Level.Main_Level_C' with ClassGeneratedBy '/Game/Hui/Main_Level.Main_Level:PersistentLevel.Main_Level'
+[2021.08.04-00.57.43:980][813]LogBlueprintUserMessages: [BP_Zombies_C_0] Hit
+[2021.08.04-00.57.44:097][818]LogBlueprintUserMessages: [BP_Zombies_C_0] Hit
+[2021.08.04-00.57.44:097][818]LogBlueprintUserMessages: [BP_Zombies_C_0] Zombie Killed!   +100
+[2021.08.04-00.57.49:843][959]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2021.08.04-00.57.50:676][987]LogBlueprintUserMessages: [BP_Bunker_7] ZOMBIE IN THE BUNKER!
+[2021.08.04-00.57.53:425][ 94]LogBlueprintUserMessages: [BP_Bunker_7] ZOMBIE IN THE BUNKER!
+[2021.08.04-00.57.53:950][114]LogBlueprintUserMessages: [BP_Bunker_7] Civilian made it into the bunker safely!
+[2021.08.04-00.57.55:143][155]LogBlueprintUserMessages: [BP_Bunker_7] ZOMBIE IN THE BUNKER!
+[2021.08.04-00.57.56:288][193]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Hui/Main_Level.Main_Level:PersistentLevel' has LevelScriptBlueprint '/Game/Hui/Main_Level.Main_Level:PersistentLevel.Main_Level' with GeneratedClass '/Game/Hui/Main_Level.Main_Level_C' with ClassGeneratedBy '/Game/Hui/Main_Level.Main_Level:PersistentLevel.Main_Level'
+[2021.08.04-00.57.56:289][193]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.04-00.57.56:289][193]LogWorld: BeginTearingDown for /Game/Hui/UEDPIE_0_Main_Level
+[2021.08.04-00.57.56:290][193]LogWorld: UWorld::CleanupWorld for Main_Level, bSessionEnded=true, bCleanupResources=true
+[2021.08.04-00.57.56:341][193]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.08.04-00.57.56:341][193]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Hui/Main_Level.Main_Level:PersistentLevel' has LevelScriptBlueprint '/Game/Hui/Main_Level.Main_Level:PersistentLevel.Main_Level' with GeneratedClass '/Game/Hui/Main_Level.Main_Level_C' with ClassGeneratedBy '/Game/Hui/Main_Level.Main_Level:PersistentLevel.Main_Level'
+[2021.08.04-00.57.56:462][193]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.04-00.57.56:471][193]LogUObjectHash: Compacting FUObjectHashTables data took   6.55ms
+[2021.08.04-00.57.56:497][194]LogPlayLevel: Display: Destroying online subsystem :Context_29
+[2021.08.04-00.58.01:122][383]LogEditorViewport: Clicking on Actor (LMB): BP_Bunker_C (BP_Bunker)
+[2021.08.04-00.58.02:849][468]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.08.04-00.58.03:546][498]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2021.08.04-00.58.03:549][498]LogAssetEditorManager: Opening Asset editor for LevelScriptBlueprint /Game/Hui/Main_Level.Main_Level:PersistentLevel.Main_Level
+[2021.08.04-00.58.54:248][582]BlueprintLog: New page: Compile Main_Level
+[2021.08.04-00.58.54:638][582]LogUObjectHash: Compacting FUObjectHashTables data took   5.15ms
+[2021.08.04-00.58.55:204][598]LogUObjectHash: Compacting FUObjectHashTables data took   4.26ms
+[2021.08.04-00.58.55:577][598]LogSavePackage: Moving '../../../../../../Users/huiwa/OneDrive/Documents/Unreal Projects/Final_Project/Saved/Main_Level32D10A23423659AAAAEBD6AC5AD3881A.tmp' to '../../../../../../Users/huiwa/OneDrive/Documents/Unreal Projects/Final_Project/Content/Hui/Main_Level.umap'
+[2021.08.04-00.58.55:609][598]LogFileHelpers: Saving map 'Main_Level' took 0.471
+[2021.08.04-00.58.56:711][654]LogTemp: Repeating last play command: Selected Viewport
+[2021.08.04-00.58.56:753][654]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Hui/Main_Level.Main_Level:PersistentLevel' has LevelScriptBlueprint '/Game/Hui/Main_Level.Main_Level:PersistentLevel.Main_Level' with GeneratedClass '/Game/Hui/Main_Level.Main_Level_C' with ClassGeneratedBy '/Game/Hui/Main_Level.Main_Level:PersistentLevel.Main_Level'
+[2021.08.04-00.58.56:753][654]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.08.04-00.58.56:753][654]PIE: New page: PIE session: Main_Level (Aug 3, 2021, 4:58:56 PM)
+[2021.08.04-00.58.56:753][654]LogPlayLevel: Creating play world package: /Game/Hui/UEDPIE_0_Main_Level
+[2021.08.04-00.58.56:763][654]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009164s)
+[2021.08.04-00.58.56:764][654]LogAIModule: Creating AISystem for world Main_Level
+[2021.08.04-00.58.56:764][654]LogPlayLevel: PIE: World Init took: (0.001274s)
+[2021.08.04-00.58.56:764][654]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Hui/Main_Level.Main_Level to /Game/Hui/UEDPIE_0_Main_Level.Main_Level (0.010611s)
+[2021.08.04-00.58.56:834][654]LogUObjectHash: Compacting FUObjectHashTables data took   5.58ms
+[2021.08.04-00.58.56:842][654]LogInit: XAudio2 using 'R240HY (Intel(R) Display Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2021.08.04-00.58.57:014][654]LogInit: FAudioDevice initialized.
+[2021.08.04-00.58.57:023][654]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.08.04-00.58.57:025][654]LogWorld: Bringing World /Game/Hui/UEDPIE_0_Main_Level.Main_Level up for play (max tick rate 60) at 2021.08.03-20.58.57
+[2021.08.04-00.58.57:026][654]LogWorld: Bringing up level for play took: 0.002733
+[2021.08.04-00.58.57:027][654]LogOnline: OSS: Creating online subsystem instance for: :Context_31
+[2021.08.04-00.58.57:032][654]PIE: Play in editor start time for /Game/Hui/UEDPIE_0_Main_Level 0.835
+[2021.08.04-00.58.57:032][654]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Hui/Main_Level.Main_Level:PersistentLevel' has LevelScriptBlueprint '/Game/Hui/Main_Level.Main_Level:PersistentLevel.Main_Level' with GeneratedClass '/Game/Hui/Main_Level.Main_Level_C' with ClassGeneratedBy '/Game/Hui/Main_Level.Main_Level:PersistentLevel.Main_Level'
+[2021.08.04-00.59.03:285][858]LogBlueprintUserMessages: [BP_Zombies_C_0] Hit
+[2021.08.04-00.59.04:703][907]LogBlueprintUserMessages: [BP_Zombies_C_0] Hit
+[2021.08.04-00.59.04:703][907]LogBlueprintUserMessages: [BP_Zombies_C_0] Zombie Killed!   +100
+[2021.08.04-00.59.11:350][158]LogBlueprintUserMessages: [BP_Bunker_7] ZOMBIE IN THE BUNKER!
+[2021.08.04-00.59.11:370][159]LogNet: Browse: /Game/Hui/GameOverLevel
+[2021.08.04-00.59.11:370][159]LogLoad: LoadMap: /Game/Hui/GameOverLevel
+[2021.08.04-00.59.11:370][159]LogWorld: BeginTearingDown for /Game/Hui/UEDPIE_0_Main_Level
+[2021.08.04-00.59.11:371][159]LogWorld: UWorld::CleanupWorld for Main_Level, bSessionEnded=true, bCleanupResources=true
+[2021.08.04-00.59.11:507][159]LogUObjectHash: Compacting FUObjectHashTables data took   7.47ms
+[2021.08.04-00.59.11:521][159]LogAIModule: Creating AISystem for world GameOverLevel
+[2021.08.04-00.59.11:522][159]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.08.04-00.59.11:523][159]LogWorld: Bringing World /Game/Hui/UEDPIE_0_GameOverLevel.GameOverLevel up for play (max tick rate 60) at 2021.08.03-20.59.11
+[2021.08.04-00.59.11:523][159]LogWorld: Bringing up level for play took: 0.000921
+[2021.08.04-00.59.11:524][159]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2021.08.04-00.59.11:530][159]LogLoad: Took 0.160020 seconds to LoadMap(/Game/Hui/GameOverLevel)
+[2021.08.04-00.59.16:836][476]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.08.04-00.59.16:904][480]LogNet: Browse: /Game/Hui/Main_Level
+[2021.08.04-00.59.16:904][480]LogLoad: LoadMap: /Game/Hui/Main_Level
+[2021.08.04-00.59.16:905][480]LogWorld: BeginTearingDown for /Game/Hui/UEDPIE_0_GameOverLevel
+[2021.08.04-00.59.16:905][480]LogWorld: UWorld::CleanupWorld for GameOverLevel, bSessionEnded=true, bCleanupResources=true
+[2021.08.04-00.59.16:984][480]LogUObjectHash: Compacting FUObjectHashTables data took   5.19ms
+[2021.08.04-00.59.16:984][480]LogPlayLevel: Creating play world package: /Game/Hui/UEDPIE_0_Main_Level
+[2021.08.04-00.59.16:995][480]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010674s)
+[2021.08.04-00.59.16:996][480]LogAIModule: Creating AISystem for world Main_Level
+[2021.08.04-00.59.16:997][480]LogPlayLevel: PIE: World Init took: (0.001583s)
+[2021.08.04-00.59.16:997][480]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Hui/Main_Level.Main_Level to /Game/Hui/UEDPIE_0_Main_Level.Main_Level (0.012571s)
+[2021.08.04-00.59.16:997][480]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.08.04-00.59.17:000][480]LogWorld: Bringing World /Game/Hui/UEDPIE_0_Main_Level.Main_Level up for play (max tick rate 60) at 2021.08.03-20.59.17
+[2021.08.04-00.59.17:000][480]LogWorld: Bringing up level for play took: 0.002481
+[2021.08.04-00.59.17:004][480]LogLoad: Took 0.099443 seconds to LoadMap(/Game/Hui/UEDPIE_0_Main_Level)
+[2021.08.04-00.59.27:383][885]LogBlueprintUserMessages: [BP_Zombies_C_0] Hit
+[2021.08.04-00.59.27:488][889]LogBlueprintUserMessages: [BP_Zombies_C_1] Hit
+[2021.08.04-00.59.27:567][892]LogBlueprintUserMessages: [BP_Zombies_C_0] Hit
+[2021.08.04-00.59.27:568][892]LogBlueprintUserMessages: [BP_Zombies_C_0] Zombie Killed!   +100
+[2021.08.04-00.59.27:682][896]LogBlueprintUserMessages: [BP_Zombies_C_1] Hit
+[2021.08.04-00.59.27:682][896]LogBlueprintUserMessages: [BP_Zombies_C_1] Zombie Killed!   +100
+[2021.08.04-00.59.33:705][119]LogBlueprintUserMessages: [BP_Bunker_7] ZOMBIE IN THE BUNKER!
+[2021.08.04-00.59.33:725][120]LogNet: Browse: /Game/Hui/GameOverLevel
+[2021.08.04-00.59.33:726][120]LogLoad: LoadMap: /Game/Hui/GameOverLevel
+[2021.08.04-00.59.33:726][120]LogWorld: BeginTearingDown for /Game/Hui/UEDPIE_0_Main_Level
+[2021.08.04-00.59.33:727][120]LogWorld: UWorld::CleanupWorld for Main_Level, bSessionEnded=true, bCleanupResources=true
+[2021.08.04-00.59.33:840][120]LogUObjectHash: Compacting FUObjectHashTables data took   5.86ms
+[2021.08.04-00.59.33:852][120]LogAIModule: Creating AISystem for world GameOverLevel
+[2021.08.04-00.59.33:853][120]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.08.04-00.59.33:854][120]LogWorld: Bringing World /Game/Hui/UEDPIE_0_GameOverLevel.GameOverLevel up for play (max tick rate 60) at 2021.08.03-20.59.33
+[2021.08.04-00.59.33:854][120]LogWorld: Bringing up level for play took: 0.000867
+[2021.08.04-00.59.33:855][120]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2021.08.04-00.59.33:859][120]LogLoad: Took 0.133202 seconds to LoadMap(/Game/Hui/GameOverLevel)
+[2021.08.04-00.59.36:960][305]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.08.04-00.59.37:028][309]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.04-00.59.37:028][309]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Hui/Main_Level.Main_Level:PersistentLevel' has LevelScriptBlueprint '/Game/Hui/Main_Level.Main_Level:PersistentLevel.Main_Level' with GeneratedClass '/Game/Hui/Main_Level.Main_Level_C' with ClassGeneratedBy '/Game/Hui/Main_Level.Main_Level:PersistentLevel.Main_Level'
+[2021.08.04-00.59.37:028][309]LogWorld: BeginTearingDown for /Game/Hui/UEDPIE_0_GameOverLevel
+[2021.08.04-00.59.37:028][309]LogWorld: UWorld::CleanupWorld for GameOverLevel, bSessionEnded=true, bCleanupResources=true
+[2021.08.04-00.59.37:035][309]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.08.04-00.59.37:036][309]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Hui/Main_Level.Main_Level:PersistentLevel' has LevelScriptBlueprint '/Game/Hui/Main_Level.Main_Level:PersistentLevel.Main_Level' with GeneratedClass '/Game/Hui/Main_Level.Main_Level_C' with ClassGeneratedBy '/Game/Hui/Main_Level.Main_Level:PersistentLevel.Main_Level'
+[2021.08.04-00.59.37:154][309]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.04-00.59.37:161][309]LogUObjectHash: Compacting FUObjectHashTables data took   6.07ms
+[2021.08.04-00.59.37:265][310]LogPlayLevel: Display: Destroying online subsystem :Context_31
+[2021.08.04-00.59.46:621][768]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.08.04-00.59.46:775][776]LogAIModule: Creating AISystem for world GameOverLevel
+[2021.08.04-00.59.46:779][776]LogAssetEditorManager: Opening Asset editor for World /Game/Hui/GameOverLevel.GameOverLevel
+[2021.08.04-00.59.46:866][776]LogUObjectHash: Compacting FUObjectHashTables data took   5.79ms
+[2021.08.04-00.59.46:867][776]Cmd: MAP LOAD FILE="../../../../../../Users/huiwa/OneDrive/Documents/Unreal Projects/Final_Project/Content/Hui/GameOverLevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.08.04-00.59.46:867][776]LightingResults: New page: Lighting Build
+[2021.08.04-00.59.46:868][776]LoadErrors: New page: Loading map: GameOverLevel.umap
+[2021.08.04-00.59.46:889][776]LogWorld: UWorld::CleanupWorld for World_25, bSessionEnded=true, bCleanupResources=true
+[2021.08.04-00.59.46:946][776]LogWorld: UWorld::CleanupWorld for Main_Level, bSessionEnded=true, bCleanupResources=true
+[2021.08.04-00.59.46:946][776]MapCheck: New page: Map Check
+[2021.08.04-00.59.46:946][776]LightingResults: New page: Lighting Build
+[2021.08.04-00.59.47:031][776]LogUObjectHash: Compacting FUObjectHashTables data took   6.54ms
+[2021.08.04-00.59.47:664][776]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.08.04-00.59.47:730][776]LogUObjectHash: Compacting FUObjectHashTables data took   4.55ms
+[2021.08.04-00.59.47:756][776]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.08.04-00.59.47:756][776]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.229ms to complete.
+[2021.08.04-00.59.47:756][776]LogFileHelpers: Loading map 'GameOverLevel' took 0.890
+[2021.08.04-01.01.02:125][945]LogSlate: Took 0.010630 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2021.08.04-01.01.26:647][616]BlueprintLog: New page: Compile HUD_FinalScore
+[2021.08.04-01.01.26:734][616]LogUObjectHash: Compacting FUObjectHashTables data took   6.12ms
+[2021.08.04-01.01.31:421][882]BlueprintLog: New page: Compile HUD_FinalScore
+[2021.08.04-01.01.31:504][882]LogUObjectHash: Compacting FUObjectHashTables data took   6.76ms
+[2021.08.04-01.02.10:766][ 58]BlueprintLog: New page: Compile HUD_FinalScore
+[2021.08.04-01.02.10:857][ 58]LogUObjectHash: Compacting FUObjectHashTables data took   8.11ms
+[2021.08.04-01.04.26:913][ 68]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\huiwa\Downloads\jumpscare.jpg)
+[2021.08.04-01.04.26:962][ 68]LogTexture: Display: Building textures: jumpscare (BGRA8, 1519X911)
+[2021.08.04-01.04.49:074][ 76]LogUObjectHash: Compacting FUObjectHashTables data took   9.04ms
+[2021.08.04-01.04.49:737][ 76]LogUObjectHash: Compacting FUObjectHashTables data took  12.94ms
+[2021.08.04-01.04.49:739][ 76]LogMetaData: Removing '/Game/Hui/HUD_GameOver.HUD_GameOver_C' ref from Metadata '/Game/Hui/HUD_FinalScore.PackageMetaData'
+[2021.08.04-01.04.49:739][ 76]LogMetaData: Removing '/Game/Hui/HUD_GameOver.HUD_GameOver:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Hui/HUD_FinalScore.PackageMetaData'
+[2021.08.04-01.04.49:739][ 76]LogMetaData: Removing '/Game/Hui/HUD_GameOver.HUD_GameOver:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Hui/HUD_FinalScore.PackageMetaData'
+[2021.08.04-01.04.49:739][ 76]LogMetaData: Removing '/Game/Hui/HUD_GameOver.HUD_GameOver:EventGraph.K2Node_Event_2' ref from Metadata '/Game/Hui/HUD_FinalScore.PackageMetaData'
+[2021.08.04-01.04.49:739][ 76]LogMetaData: Removing '/Game/Hui/HUD_GameOver.HUD_GameOver:Final_Score.K2Node_FunctionResult_0' ref from Metadata '/Game/Hui/HUD_FinalScore.PackageMetaData'
+[2021.08.04-01.04.49:739][ 76]LogMetaData: Removing '/Game/Hui/HUD_GameOver.HUD_GameOver:Final_Score.K2Node_FunctionEntry_0' ref from Metadata '/Game/Hui/HUD_FinalScore.PackageMetaData'
+[2021.08.04-01.04.49:739][ 76]LogMetaData: Removing '/Game/Hui/HUD_GameOver.SKEL_HUD_GameOver_C' ref from Metadata '/Game/Hui/HUD_FinalScore.PackageMetaData'
+[2021.08.04-01.04.49:780][ 76]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Hui/HUD_GameOver" FILE="../../../../../../Users/huiwa/OneDrive/Documents/Unreal Projects/Final_Project/Content/Hui/HUD_GameOver.uasset" SILENT=true
+[2021.08.04-01.04.49:827][ 76]LogSavePackage: Moving '../../../../../../Users/huiwa/OneDrive/Documents/Unreal Projects/Final_Project/Saved/HUD_GameOver6E2CF18C4A10486B051B32B2FA1CD0D6.tmp' to '../../../../../../Users/huiwa/OneDrive/Documents/Unreal Projects/Final_Project/Content/Hui/HUD_GameOver.uasset'
+[2021.08.04-01.04.49:838][ 76]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Hui/HUD_FinalScore" FILE="../../../../../../Users/huiwa/OneDrive/Documents/Unreal Projects/Final_Project/Content/Hui/HUD_FinalScore.uasset" SILENT=true
+[2021.08.04-01.04.49:866][ 76]LogSavePackage: Moving '../../../../../../Users/huiwa/OneDrive/Documents/Unreal Projects/Final_Project/Saved/HUD_FinalScore357DDBF646C1340B1BAD00AC40B3FC52.tmp' to '../../../../../../Users/huiwa/OneDrive/Documents/Unreal Projects/Final_Project/Content/Hui/HUD_FinalScore.uasset'
+[2021.08.04-01.05.53:822][294]LogSlate: Window 'Color Picker' being destroyed
+[2021.08.04-01.07.29:816][344]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\huiwa\Downloads\zombie jump scare.jpg)
+[2021.08.04-01.07.29:832][344]LogTexture: Display: Building textures: zombie_jump_scare (AutoDXT, 1280X720)
+[2021.08.04-01.08.00:862][871]LogSlate: Window 'Color Picker' being destroyed
+[2021.08.04-01.09.09:804][835]BlueprintLog: New page: Compile HUD_GameOver
+[2021.08.04-01.09.09:878][835]LogUObjectHash: Compacting FUObjectHashTables data took   6.55ms
+[2021.08.04-01.09.10:498][865]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Hui/HUD_GameOver" FILE="../../../../../../Users/huiwa/OneDrive/Documents/Unreal Projects/Final_Project/Content/Hui/HUD_GameOver.uasset" SILENT=true
+[2021.08.04-01.09.10:526][865]LogSavePackage: Moving '../../../../../../Users/huiwa/OneDrive/Documents/Unreal Projects/Final_Project/Saved/HUD_GameOver920BDB8C49322CE030C764A15FE010BA.tmp' to '../../../../../../Users/huiwa/OneDrive/Documents/Unreal Projects/Final_Project/Content/Hui/HUD_GameOver.uasset'
+[2021.08.04-01.09.15:852][136]LogUObjectHash: Compacting FUObjectHashTables data took   4.65ms
+[2021.08.04-01.09.17:002][136]LogSlate: Window 'Save Content' being destroyed
+[2021.08.04-01.09.17:057][136]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2021.08.04-01.09.17:283][136]LogSavePackage: Moving '../../../../../../Users/huiwa/OneDrive/Documents/Unreal Projects/Final_Project/Saved/GameOverLevel8F1D5382404CCD8A69E853890A01A013.tmp' to '../../../../../../Users/huiwa/OneDrive/Documents/Unreal Projects/Final_Project/Content/Hui/GameOverLevel.umap'
+[2021.08.04-01.09.17:305][136]LogFileHelpers: Saving map 'GameOverLevel' took 0.289
+[2021.08.04-01.09.17:311][136]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Hui/jumpscare" FILE="../../../../../../Users/huiwa/OneDrive/Documents/Unreal Projects/Final_Project/Content/Hui/jumpscare.uasset" SILENT=true
+[2021.08.04-01.09.17:428][136]LogSavePackage: Moving '../../../../../../Users/huiwa/OneDrive/Documents/Unreal Projects/Final_Project/Saved/jumpscare77076C214B9F0F53885E62ACA7306BEE.tmp' to '../../../../../../Users/huiwa/OneDrive/Documents/Unreal Projects/Final_Project/Content/Hui/jumpscare.uasset'
+[2021.08.04-01.09.17:437][136]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Hui/zombie_jump_scare" FILE="../../../../../../Users/huiwa/OneDrive/Documents/Unreal Projects/Final_Project/Content/Hui/zombie_jump_scare.uasset" SILENT=true
+[2021.08.04-01.09.17:529][136]LogSavePackage: Moving '../../../../../../Users/huiwa/OneDrive/Documents/Unreal Projects/Final_Project/Saved/zombie_jump_scare60242E8E40C94F6E2151259748940DB4.tmp' to '../../../../../../Users/huiwa/OneDrive/Documents/Unreal Projects/Final_Project/Content/Hui/zombie_jump_scare.uasset'
+[2021.08.04-01.09.17:627][136]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2021.08.04-01.09.17:635][136]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2021.08.04-01.09.17:823][136]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2021.08.04-01.09.17:842][136]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2021.08.04-01.09.17:912][136]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2021.08.04-01.09.17:919][136]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2021.08.04-01.09.18:002][136]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2021.08.04-01.09.18:066][136]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2021.08.04-01.09.18:066][136]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2021.08.04-01.09.18:119][136]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2021.08.04-01.09.18:119][136]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2021.08.04-01.09.18:164][136]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2021.08.04-01.09.18:164][136]LogWorld: UWorld::CleanupWorld for World_22, bSessionEnded=true, bCleanupResources=true
+[2021.08.04-01.09.18:204][136]LogSlate: Window 'Final_Project - Unreal Editor' being destroyed
+[2021.08.04-01.09.18:204][136]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2021.08.04-01.09.18:483][137]Cmd: QUIT_EDITOR
+[2021.08.04-01.09.19:261][137]LogExit: Preparing to exit.
+[2021.08.04-01.09.19:396][137]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2021.08.04-01.09.19:402][137]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2021.08.04-01.09.19:407][137]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2021.08.04-01.09.19:413][137]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2021.08.04-01.09.19:418][137]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2021.08.04-01.09.19:423][137]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2021.08.04-01.09.19:429][137]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2021.08.04-01.09.19:434][137]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2021.08.04-01.09.19:439][137]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2021.08.04-01.09.19:535][137]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2021.08.04-01.09.19:585][137]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2021.08.04-01.09.19:586][137]LogExit: Editor shut down
+[2021.08.04-01.09.19:592][137]LogExit: Transaction tracking system shut down
+[2021.08.04-01.09.20:063][137]LogExit: Object subsystem successfully closed.
+[2021.08.04-01.09.20:119][137]LogShaderCompilers: Display: Shaders left to compile 0
+[2021.08.04-01.09.20:247][137]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (676)
+[2021.08.04-01.09.20:247][137]LogModuleManager: Shutting down and abandoning module Voice (674)
+[2021.08.04-01.09.20:248][137]LogModuleManager: Shutting down and abandoning module SequencerWidgets (672)
+[2021.08.04-01.09.20:248][137]LogModuleManager: Shutting down and abandoning module BlueprintGraph (670)
+[2021.08.04-01.09.20:248][137]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (668)
+[2021.08.04-01.09.20:248][137]LogModuleManager: Shutting down and abandoning module SceneOutliner (666)
+[2021.08.04-01.09.20:248][137]LogModuleManager: Shutting down and abandoning module AddContentDialog (664)
+[2021.08.04-01.09.20:257][137]LogModuleManager: Shutting down and abandoning module WidgetCarousel (663)
+[2021.08.04-01.09.20:257][137]LogModuleManager: Shutting down and abandoning module EditorWidgets (660)
+[2021.08.04-01.09.20:257][137]LogModuleManager: Shutting down and abandoning module CollectionManager (658)
+[2021.08.04-01.09.20:257][137]LogModuleManager: Shutting down and abandoning module StatsViewer (656)
+[2021.08.04-01.09.20:258][137]LogModuleManager: Shutting down and abandoning module VirtualTexturingEditor (654)
+[2021.08.04-01.09.20:258][137]LogModuleManager: Shutting down and abandoning module FoliageEdit (652)
+[2021.08.04-01.09.20:259][137]LogModuleManager: Shutting down and abandoning module LandscapeEditor (650)
+[2021.08.04-01.09.20:261][137]LogModuleManager: Shutting down and abandoning module MeshPaintMode (648)
+[2021.08.04-01.09.20:262][137]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (646)
+[2021.08.04-01.09.20:262][137]LogModuleManager: Shutting down and abandoning module ActorPickerMode (644)
+[2021.08.04-01.09.20:262][137]LogModuleManager: Shutting down and abandoning module GeometryMode (642)
+[2021.08.04-01.09.20:262][137]LogModuleManager: Shutting down and abandoning module TextureAlignMode (640)
+[2021.08.04-01.09.20:262][137]LogModuleManager: Shutting down and abandoning module BspMode (638)
+[2021.08.04-01.09.20:262][137]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (636)
+[2021.08.04-01.09.20:263][137]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (634)
+[2021.08.04-01.09.20:263][137]LogModuleManager: Shutting down and abandoning module AutomationWorker (632)
+[2021.08.04-01.09.20:265][137]LogModuleManager: Shutting down and abandoning module OculusMR (630)
+[2021.08.04-01.09.20:265][137]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (628)
+[2021.08.04-01.09.20:265][137]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (626)
+[2021.08.04-01.09.20:265][137]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (624)
+[2021.08.04-01.09.20:268][137]LogModuleManager: Shutting down and abandoning module PlacementMode (623)
+[2021.08.04-01.09.20:268][137]LogModuleManager: Shutting down and abandoning module MaterialEditor (622)
+[2021.08.04-01.09.20:270][137]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (618)
+[2021.08.04-01.09.20:271][137]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (616)
+[2021.08.04-01.09.20:271][137]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (614)
+[2021.08.04-01.09.20:271][137]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (612)
+[2021.08.04-01.09.20:271][137]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (610)
+[2021.08.04-01.09.20:271][137]LogModuleManager: Shutting down and abandoning module WebMMedia (608)
+[2021.08.04-01.09.20:272][137]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (606)
+[2021.08.04-01.09.20:276][137]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (604)
+[2021.08.04-01.09.20:277][137]LogModuleManager: Shutting down and abandoning module SequenceRecorder (603)
+[2021.08.04-01.09.20:277][137]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (600)
+[2021.08.04-01.09.20:277][137]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (598)
+[2021.08.04-01.09.20:277][137]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (596)
+[2021.08.04-01.09.20:277][137]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (594)
+[2021.08.04-01.09.20:277][137]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (592)
+[2021.08.04-01.09.20:277][137]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (590)
+[2021.08.04-01.09.20:277][137]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (588)
+[2021.08.04-01.09.20:277][137]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (586)
+[2021.08.04-01.09.20:277][137]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (584)
+[2021.08.04-01.09.20:277][137]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (582)
+[2021.08.04-01.09.20:278][137]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (580)
+[2021.08.04-01.09.20:278][137]LogModuleManager: Shutting down and abandoning module CharacterAI (578)
+[2021.08.04-01.09.20:278][137]LogModuleManager: Shutting down and abandoning module SmartSnapping (576)
+[2021.08.04-01.09.20:278][137]LogModuleManager: Shutting down and abandoning module SessionServices (574)
+[2021.08.04-01.09.20:278][137]LogModuleManager: Shutting down and abandoning module MeshPaint (572)
+[2021.08.04-01.09.20:279][137]LogModuleManager: Shutting down and abandoning module ViewportSnapping (570)
+[2021.08.04-01.09.20:279][137]LogModuleManager: Shutting down and abandoning module ViewportInteraction (568)
+[2021.08.04-01.09.20:279][137]LogModuleManager: Shutting down and abandoning module ClothPainter (566)
+[2021.08.04-01.09.20:281][137]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (565)
+[2021.08.04-01.09.20:282][137]LogModuleManager: Shutting down and abandoning module LogVisualizer (562)
+[2021.08.04-01.09.20:283][137]LogModuleManager: Shutting down and abandoning module IntroTutorials (560)
+[2021.08.04-01.09.20:284][137]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (559)
+[2021.08.04-01.09.20:285][137]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (556)
+[2021.08.04-01.09.20:285][137]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (554)
+[2021.08.04-01.09.20:286][137]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (552)
+[2021.08.04-01.09.20:286][137]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (550)
+[2021.08.04-01.09.20:286][137]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (549)
+[2021.08.04-01.09.20:337][137]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (546)
+[2021.08.04-01.09.20:337][137]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (544)
+[2021.08.04-01.09.20:337][137]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (542)
+[2021.08.04-01.09.20:337][137]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (540)
+[2021.08.04-01.09.20:337][137]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (538)
+[2021.08.04-01.09.20:338][137]LogModuleManager: Shutting down and abandoning module InputBindingEditor (536)
+[2021.08.04-01.09.20:338][137]LogModuleManager: Shutting down and abandoning module MergeActors (534)
+[2021.08.04-01.09.20:339][137]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (532)
+[2021.08.04-01.09.20:340][137]LogModuleManager: Shutting down and abandoning module LocalizationService (531)
+[2021.08.04-01.09.20:341][137]LogModuleManager: Shutting down and abandoning module HardwareTargeting (528)
+[2021.08.04-01.09.20:341][137]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (526)
+[2021.08.04-01.09.20:341][137]LogModuleManager: Shutting down and abandoning module UndoHistory (524)
+[2021.08.04-01.09.20:342][137]LogModuleManager: Shutting down and abandoning module XmlParser (522)
+[2021.08.04-01.09.20:342][137]LogModuleManager: Shutting down and abandoning module Blutility (520)
+[2021.08.04-01.09.20:342][137]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (518)
+[2021.08.04-01.09.20:342][137]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (517)
+[2021.08.04-01.09.20:343][137]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (514)
+[2021.08.04-01.09.20:343][137]LogModuleManager: Shutting down and abandoning module SettingsEditor (512)
+[2021.08.04-01.09.20:344][137]LogModuleManager: Shutting down and abandoning module ProjectLauncher (510)
+[2021.08.04-01.09.20:344][137]LogModuleManager: Shutting down and abandoning module SessionFrontend (508)
+[2021.08.04-01.09.20:345][137]LogModuleManager: Shutting down and abandoning module ProfilerClient (506)
+[2021.08.04-01.09.20:345][137]LogModuleManager: Shutting down and abandoning module DeviceManager (504)
+[2021.08.04-01.09.20:346][137]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (503)
+[2021.08.04-01.09.20:379][137]LogModuleManager: Shutting down and abandoning module AutomationController (500)
+[2021.08.04-01.09.20:380][137]LogModuleManager: Shutting down and abandoning module AutomationWindow (498)
+[2021.08.04-01.09.20:380][137]LogModuleManager: Shutting down and abandoning module Layers (496)
+[2021.08.04-01.09.20:382][137]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (494)
+[2021.08.04-01.09.20:382][137]LogModuleManager: Shutting down and abandoning module DetailCustomizations (492)
+[2021.08.04-01.09.20:382][137]LogModuleManager: Shutting down and abandoning module PackagesDialog (490)
+[2021.08.04-01.09.20:382][137]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (488)
+[2021.08.04-01.09.20:383][137]LogModuleManager: Shutting down and abandoning module Persona (486)
+[2021.08.04-01.09.20:385][137]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (485)
+[2021.08.04-01.09.20:385][137]LogModuleManager: Shutting down and abandoning module AnimGraph (483)
+[2021.08.04-01.09.20:386][137]LogModuleManager: Shutting down and abandoning module Kismet (480)
+[2021.08.04-01.09.20:397][137]LogModuleManager: Shutting down and abandoning module KismetWidgets (479)
+[2021.08.04-01.09.20:398][137]LogModuleManager: Shutting down and abandoning module GraphEditor (476)
+[2021.08.04-01.09.20:398][137]LogModuleManager: Shutting down and abandoning module StructViewer (474)
+[2021.08.04-01.09.20:398][137]LogModuleManager: Shutting down and abandoning module ClassViewer (472)
+[2021.08.04-01.09.20:399][137]LogModuleManager: Shutting down and abandoning module Toolbox (470)
+[2021.08.04-01.09.20:399][137]LogModuleManager: Shutting down and abandoning module ModuleUI (468)
+[2021.08.04-01.09.20:399][137]LogModuleManager: Shutting down and abandoning module MovieSceneTools (466)
+[2021.08.04-01.09.20:401][137]LogModuleManager: Shutting down and abandoning module OutputLog (464)
+[2021.08.04-01.09.20:401][137]LogModuleManager: Shutting down and abandoning module GammaUI (462)
+[2021.08.04-01.09.20:401][137]LogModuleManager: Shutting down and abandoning module Documentation (460)
+[2021.08.04-01.09.20:402][137]LogModuleManager: Shutting down and abandoning module LiveCoding (458)
+[2021.08.04-01.09.20:403][137]LogModuleManager: Shutting down and abandoning module LevelSequence (456)
+[2021.08.04-01.09.20:403][137]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (454)
+[2021.08.04-01.09.20:403][137]LogModuleManager: Shutting down and abandoning module MovieScene (452)
+[2021.08.04-01.09.20:403][137]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (450)
+[2021.08.04-01.09.20:404][137]LogModuleManager: Shutting down and abandoning module LauncherPlatform (448)
+[2021.08.04-01.09.20:404][137]LogModuleManager: Shutting down and abandoning module AnalyticsET (446)
+[2021.08.04-01.09.20:404][137]LogModuleManager: Shutting down and abandoning module PortalServices (444)
+[2021.08.04-01.09.20:404][137]LogModuleManager: Shutting down and abandoning module PortalRpc (442)
+[2021.08.04-01.09.20:404][137]LogModuleManager: Shutting down and abandoning module MessagingRpc (440)
+[2021.08.04-01.09.20:404][137]LogModuleManager: Shutting down and abandoning module AIModule (438)
+[2021.08.04-01.09.20:404][137]LogModuleManager: Shutting down and abandoning module GameplayDebugger (437)
+[2021.08.04-01.09.20:404][137]LogModuleManager: Shutting down and abandoning module AITestSuite (435)
+[2021.08.04-01.09.20:404][137]LogModuleManager: Shutting down and abandoning module NavigationSystem (433)
+[2021.08.04-01.09.20:404][137]LogModuleManager: Shutting down and abandoning module DesktopPlatform (430)
+[2021.08.04-01.09.20:406][137]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (428)
+[2021.08.04-01.09.20:411][137]LogModuleManager: Shutting down and abandoning module ProfilerService (426)
+[2021.08.04-01.09.20:504][137]LogModuleManager: Shutting down and abandoning module TaskGraph (424)
+[2021.08.04-01.09.20:506][137]LogModuleManager: Shutting down and abandoning module ScreenshotTools (422)
+[2021.08.04-01.09.20:506][137]LogModuleManager: Shutting down and abandoning module SteamVRController (420)
+[2021.08.04-01.09.20:506][137]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (418)
+[2021.08.04-01.09.20:506][137]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (416)
+[2021.08.04-01.09.20:507][137]LogModuleManager: Shutting down and abandoning module OculusEditor (414)
+[2021.08.04-01.09.20:507][137]LogModuleManager: Shutting down and abandoning module OculusInput (412)
+[2021.08.04-01.09.20:507][137]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (410)
+[2021.08.04-01.09.20:507][137]LogModuleManager: Shutting down and abandoning module EditableMesh (408)
+[2021.08.04-01.09.20:508][137]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (406)
+[2021.08.04-01.09.20:508][137]LogModuleManager: Shutting down and abandoning module CableComponent (404)
+[2021.08.04-01.09.20:508][137]LogModuleManager: Shutting down and abandoning module AudioCapture (402)
+[2021.08.04-01.09.20:508][137]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (400)
+[2021.08.04-01.09.20:508][137]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (398)
+[2021.08.04-01.09.20:508][137]LogModuleManager: Shutting down and abandoning module AppleImageUtils (396)
+[2021.08.04-01.09.20:508][137]LogModuleManager: Shutting down and abandoning module AndroidPermission (394)
+[2021.08.04-01.09.20:508][137]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (392)
+[2021.08.04-01.09.20:508][137]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (390)
+[2021.08.04-01.09.20:510][137]LogModuleManager: Shutting down and abandoning module MediaCompositing (388)
+[2021.08.04-01.09.20:510][137]LogModuleManager: Shutting down and abandoning module ImgMedia (386)
+[2021.08.04-01.09.20:510][137]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (384)
+[2021.08.04-01.09.20:510][137]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (382)
+[2021.08.04-01.09.20:510][137]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (380)
+[2021.08.04-01.09.20:510][137]LogModuleManager: Shutting down and abandoning module HTML5Networking (378)
+[2021.08.04-01.09.20:510][137]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (376)
+[2021.08.04-01.09.20:510][137]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (374)
+[2021.08.04-01.09.20:510][137]LogModuleManager: Shutting down and abandoning module BackChannel (372)
+[2021.08.04-01.09.20:510][137]LogModuleManager: Shutting down and abandoning module AutomationUtilsEditor (370)
+[2021.08.04-01.09.20:510][137]LogModuleManager: Shutting down and abandoning module AutomationUtils (368)
+[2021.08.04-01.09.20:510][137]LogModuleManager: Shutting down and abandoning module AlembicImporter (366)
+[2021.08.04-01.09.20:510][137]LogModuleManager: Shutting down and abandoning module AlembicLibrary (365)
+[2021.08.04-01.09.20:511][137]LogModuleManager: Shutting down and abandoning module GeometryCache (364)
+[2021.08.04-01.09.20:511][137]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (363)
+[2021.08.04-01.09.20:511][137]LogModuleManager: Shutting down and abandoning module VariantManagerContent (358)
+[2021.08.04-01.09.20:511][137]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (356)
+[2021.08.04-01.09.20:512][137]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (354)
+[2021.08.04-01.09.20:512][137]LogModuleManager: Shutting down and abandoning module PluginBrowser (352)
+[2021.08.04-01.09.20:513][137]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (350)
+[2021.08.04-01.09.20:514][137]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (348)
+[2021.08.04-01.09.20:514][137]LogModuleManager: Shutting down and abandoning module CurveEditorTools (346)
+[2021.08.04-01.09.20:514][137]LogModuleManager: Shutting down and abandoning module CurveEditor (345)
+[2021.08.04-01.09.20:514][137]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (342)
+[2021.08.04-01.09.20:514][137]LogModuleManager: Shutting down and abandoning module CryptoKeys (340)
+[2021.08.04-01.09.20:514][137]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (338)
+[2021.08.04-01.09.20:515][137]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (336)
+[2021.08.04-01.09.20:515][137]LogModuleManager: Shutting down and abandoning module UObjectPlugin (334)
+[2021.08.04-01.09.20:515][137]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (332)
+[2021.08.04-01.09.20:515][137]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (330)
+[2021.08.04-01.09.20:517][137]LogModuleManager: Shutting down and abandoning module GitSourceControl (328)
+[2021.08.04-01.09.20:518][137]LogModuleManager: Shutting down and abandoning module SourceControl (327)
+[2021.08.04-01.09.20:518][137]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (324)
+[2021.08.04-01.09.20:518][137]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (322)
+[2021.08.04-01.09.20:518][137]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (320)
+[2021.08.04-01.09.20:518][137]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (318)
+[2021.08.04-01.09.20:518][137]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (316)
+[2021.08.04-01.09.20:519][137]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (314)
+[2021.08.04-01.09.20:519][137]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (312)
+[2021.08.04-01.09.20:519][137]LogModuleManager: Shutting down and abandoning module Paper2DEditor (310)
+[2021.08.04-01.09.20:520][137]LogModuleManager: Shutting down and abandoning module SignificanceManager (308)
+[2021.08.04-01.09.20:520][137]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (306)
+[2021.08.04-01.09.20:520][137]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (304)
+[2021.08.04-01.09.20:520][137]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (300)
+[2021.08.04-01.09.20:520][137]LogModuleManager: Shutting down and abandoning module ActorSequence (298)
+[2021.08.04-01.09.20:520][137]LogModuleManager: Shutting down and abandoning module UdpMessaging (296)
+[2021.08.04-01.09.20:621][137]LogModuleManager: Shutting down and abandoning module TcpMessaging (294)
+[2021.08.04-01.09.20:723][137]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (292)
+[2021.08.04-01.09.20:723][137]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (290)
+[2021.08.04-01.09.20:723][137]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (288)
+[2021.08.04-01.09.20:723][137]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (286)
+[2021.08.04-01.09.20:723][137]LogModuleManager: Shutting down and abandoning module MagicLeapController (284)
+[2021.08.04-01.09.20:723][137]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2021.08.04-01.09.20:724][137]LogModuleManager: Shutting down and abandoning module MagicLeapAR (282)
+[2021.08.04-01.09.20:724][137]LogModuleManager: Shutting down and abandoning module AugmentedReality (281)
+[2021.08.04-01.09.20:724][137]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (278)
+[2021.08.04-01.09.20:724][137]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (276)
+[2021.08.04-01.09.20:724][137]LogModuleManager: Shutting down and abandoning module FacialAnimation (274)
+[2021.08.04-01.09.20:724][137]LogModuleManager: Shutting down and abandoning module DataValidation (272)
+[2021.08.04-01.09.20:724][137]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (270)
+[2021.08.04-01.09.20:725][137]LogModuleManager: Shutting down and abandoning module LevelEditor (269)
+[2021.08.04-01.09.20:728][137]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (268)
+[2021.08.04-01.09.20:729][137]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (266)
+[2021.08.04-01.09.20:729][137]LogModuleManager: Shutting down and abandoning module MainFrame (264)
+[2021.08.04-01.09.20:730][137]LogModuleManager: Shutting down and abandoning module HotReload (263)
+[2021.08.04-01.09.20:730][137]LogModuleManager: Shutting down and abandoning module ContentBrowser (259)
+[2021.08.04-01.09.20:731][137]LogModuleManager: Shutting down and abandoning module TreeMap (257)
+[2021.08.04-01.09.20:732][137]LogModuleManager: Shutting down and abandoning module AnimationSharing (254)
+[2021.08.04-01.09.20:732][137]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (252)
+[2021.08.04-01.09.20:732][137]LogModuleManager: Shutting down and abandoning module Paper2D (250)
+[2021.08.04-01.09.20:732][137]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (248)
+[2021.08.04-01.09.20:738][137]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (246)
+[2021.08.04-01.09.20:738][137]LogModuleManager: Shutting down and abandoning module NetworkReplayStreaming (244)
+[2021.08.04-01.09.20:739][137]LogModuleManager: Shutting down and abandoning module PacketHandler (242)
+[2021.08.04-01.09.20:739][137]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (240)
+[2021.08.04-01.09.20:739][137]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (238)
+[2021.08.04-01.09.20:740][137]LogModuleManager: Shutting down and abandoning module MediaAssets (236)
+[2021.08.04-01.09.20:740][137]LogModuleManager: Shutting down and abandoning module Overlay (234)
+[2021.08.04-01.09.20:740][137]LogModuleManager: Shutting down and abandoning module OverlayEditor (233)
+[2021.08.04-01.09.20:740][137]LogModuleManager: Shutting down and abandoning module VREditor (230)
+[2021.08.04-01.09.20:741][137]LogModuleManager: Shutting down and abandoning module StringTableEditor (228)
+[2021.08.04-01.09.20:741][137]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (226)
+[2021.08.04-01.09.20:741][137]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (224)
+[2021.08.04-01.09.20:742][137]LogModuleManager: Shutting down and abandoning module FunctionalTesting (222)
+[2021.08.04-01.09.20:743][137]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (220)
+[2021.08.04-01.09.20:746][137]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (219)
+[2021.08.04-01.09.20:748][137]LogModuleManager: Shutting down and abandoning module UMG (216)
+[2021.08.04-01.09.20:748][137]LogModuleManager: Shutting down and abandoning module UMGEditor (215)
+[2021.08.04-01.09.20:748][137]LogModuleManager: Shutting down and abandoning module Sequencer (214)
+[2021.08.04-01.09.20:749][137]LogModuleManager: Shutting down and abandoning module MessageLog (211)
+[2021.08.04-01.09.20:749][137]LogModuleManager: Shutting down and abandoning module SlateReflector (206)
+[2021.08.04-01.09.20:750][137]LogModuleManager: Shutting down and abandoning module Slate (204)
+[2021.08.04-01.09.20:750][137]LogModuleManager: Shutting down and abandoning module LandscapeEditorUtilities (202)
+[2021.08.04-01.09.20:750][137]LogModuleManager: Shutting down and abandoning module EditorStyle (200)
+[2021.08.04-01.09.20:753][137]LogModuleManager: Shutting down and abandoning module UnrealEd (198)
+[2021.08.04-01.09.20:753][137]LogModuleManager: Shutting down and abandoning module MRMesh (196)
+[2021.08.04-01.09.20:753][137]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (194)
+[2021.08.04-01.09.20:753][137]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (192)
+[2021.08.04-01.09.20:753][137]LogModuleManager: Shutting down and abandoning module XAudio2 (190)
+[2021.08.04-01.09.20:753][137]LogModuleManager: Shutting down and abandoning module Networking (188)
+[2021.08.04-01.09.20:753][137]LogModuleManager: Shutting down and abandoning module Core (186)
+[2021.08.04-01.09.20:753][137]LogModuleManager: Shutting down and abandoning module KismetCompiler (184)
+[2021.08.04-01.09.20:753][137]LogModuleManager: Shutting down and abandoning module MeshUtilities (182)
+[2021.08.04-01.09.20:753][137]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (181)
+[2021.08.04-01.09.20:753][137]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (180)
+[2021.08.04-01.09.20:754][137]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (179)
+[2021.08.04-01.09.20:755][137]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (177)
+[2021.08.04-01.09.20:756][137]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (175)
+[2021.08.04-01.09.20:756][137]LogModuleManager: Shutting down and abandoning module MaterialBaking (171)
+[2021.08.04-01.09.20:756][137]LogModuleManager: Shutting down and abandoning module NullInstallBundleManager (166)
+[2021.08.04-01.09.20:756][137]LogModuleManager: Shutting down and abandoning module DerivedDataCache (164)
+[2021.08.04-01.09.20:827][137]LogDerivedDataCache: Shutdown
+[2021.08.04-01.09.20:827][137]LogModuleManager: Shutting down and abandoning module XGEController (162)
+[2021.08.04-01.09.20:828][137]LogModuleManager: Shutting down and abandoning module TargetPlatform (160)
+[2021.08.04-01.09.20:829][137]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (159)
+[2021.08.04-01.09.20:830][137]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (157)
+[2021.08.04-01.09.20:831][137]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (155)
+[2021.08.04-01.09.20:832][137]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (153)
+[2021.08.04-01.09.20:832][137]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (151)
+[2021.08.04-01.09.20:832][137]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (149)
+[2021.08.04-01.09.20:832][137]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (147)
+[2021.08.04-01.09.20:833][137]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (145)
+[2021.08.04-01.09.20:833][137]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (143)
+[2021.08.04-01.09.20:834][137]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (141)
+[2021.08.04-01.09.20:834][137]LogModuleManager: Shutting down and abandoning module ImageWrapper (140)
+[2021.08.04-01.09.20:834][137]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (137)
+[2021.08.04-01.09.20:834][137]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (135)
+[2021.08.04-01.09.20:834][137]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (133)
+[2021.08.04-01.09.20:834][137]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (131)
+[2021.08.04-01.09.20:834][137]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (129)
+[2021.08.04-01.09.20:854][137]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (127)
+[2021.08.04-01.09.20:855][137]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (125)
+[2021.08.04-01.09.20:855][137]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (123)
+[2021.08.04-01.09.20:855][137]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (121)
+[2021.08.04-01.09.20:855][137]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (119)
+[2021.08.04-01.09.20:861][137]LogModuleManager: Shutting down and abandoning module Messaging (117)
+[2021.08.04-01.09.20:861][137]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (115)
+[2021.08.04-01.09.20:866][137]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (113)
+[2021.08.04-01.09.20:866][137]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (111)
+[2021.08.04-01.09.20:906][137]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (109)
+[2021.08.04-01.09.20:906][137]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (107)
+[2021.08.04-01.09.20:906][137]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (105)
+[2021.08.04-01.09.20:907][137]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (103)
+[2021.08.04-01.09.20:907][137]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (101)
+[2021.08.04-01.09.20:907][137]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (99)
+[2021.08.04-01.09.20:907][137]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (97)
+[2021.08.04-01.09.20:907][137]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (95)
+[2021.08.04-01.09.20:908][137]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (93)
+[2021.08.04-01.09.20:908][137]LogModuleManager: Shutting down and abandoning module InputCore (90)
+[2021.08.04-01.09.20:908][137]LogModuleManager: Shutting down and abandoning module Settings (88)
+[2021.08.04-01.09.20:908][137]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (86)
+[2021.08.04-01.09.20:910][137]LogModuleManager: Shutting down and abandoning module PhysXCooking (84)
+[2021.08.04-01.09.20:910][137]LogModuleManager: Shutting down and abandoning module WindowsPlatformFeatures (82)
+[2021.08.04-01.09.20:910][137]LogModuleManager: Shutting down and abandoning module GameplayMediaEncoder (81)
+[2021.08.04-01.09.20:911][137]LogModuleManager: Shutting down and abandoning module SteamVR (78)
+[2021.08.04-01.09.20:911][137]LogHMD: Freeing OpenVRDLLHandle.
+[2021.08.04-01.09.20:911][137]LogModuleManager: Shutting down and abandoning module OculusHMD (76)
+[2021.08.04-01.09.20:911][137]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (74)
+[2021.08.04-01.09.20:911][137]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (72)
+[2021.08.04-01.09.20:911][137]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (70)
+[2021.08.04-01.09.20:911][137]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (66)
+[2021.08.04-01.09.20:912][137]LogModuleManager: Shutting down and abandoning module XMPP (61)
+[2021.08.04-01.09.20:914][137]LogModuleManager: Shutting down and abandoning module WebSockets (60)
+[2021.08.04-01.09.20:943][137]LogModuleManager: Shutting down and abandoning module HTTP (57)
+[2021.08.04-01.09.20:943][137]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2021.08.04-01.09.20:943][137]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BBC574E02-4A69-90F5-7BB1-D7851A0C980F%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.1-9631420%2B%2B%2BUE4%2BRelease-4.23&UserID=39917c4e4d87a9fefc1964aee1021b5b%7C5bfda8880cdb49189da632b728097990%7Cb69c147b-1d4c-402b-9e84-04f765cd1340&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2021.08.04-01.09.20:968][137]LogModuleManager: Shutting down and abandoning module SSL (56)
+[2021.08.04-01.09.20:975][137]LogModuleManager: Shutting down and abandoning module WmfMedia (52)
+[2021.08.04-01.09.20:979][137]LogModuleManager: Shutting down and abandoning module Media (51)
+[2021.08.04-01.09.20:979][137]LogModuleManager: Shutting down and abandoning module MagicLeap (48)
+[2021.08.04-01.09.20:980][137]LogModuleManager: Shutting down and abandoning module DatasmithContent (46)
+[2021.08.04-01.09.20:980][137]LogModuleManager: Shutting down and abandoning module AISupportModule (44)
+[2021.08.04-01.09.20:980][137]LogModuleManager: Shutting down and abandoning module PlatformCryptoOpenSSL (42)
+[2021.08.04-01.09.20:981][137]LogModuleManager: Shutting down and abandoning module PlatformCrypto (40)
+[2021.08.04-01.09.20:981][137]LogModuleManager: Shutting down and abandoning module AnimationModifiers (38)
+[2021.08.04-01.09.20:981][137]LogModuleManager: Shutting down and abandoning module PropertyEditor (37)
+[2021.08.04-01.09.20:986][137]LogModuleManager: Shutting down and abandoning module AudioEditor (34)
+[2021.08.04-01.09.20:989][137]LogModuleManager: Shutting down and abandoning module TextureCompressor (32)
+[2021.08.04-01.09.20:989][137]LogModuleManager: Shutting down and abandoning module RenderCore (30)
+[2021.08.04-01.09.20:989][137]LogModuleManager: Shutting down and abandoning module Landscape (28)
+[2021.08.04-01.09.20:989][137]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (26)
+[2021.08.04-01.09.20:991][137]LogModuleManager: Shutting down and abandoning module OpenGLDrv (24)
+[2021.08.04-01.09.20:991][137]LogModuleManager: Shutting down and abandoning module D3D11RHI (22)
+[2021.08.04-01.09.20:991][137]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2021.08.04-01.09.20:991][137]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2021.08.04-01.09.20:992][137]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2021.08.04-01.09.20:992][137]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2021.08.04-01.09.20:992][137]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2021.08.04-01.09.20:992][137]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2021.08.04-01.09.20:992][137]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2021.08.04-01.09.20:993][137]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2021.08.04-01.09.20:993][137]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2021.08.04-01.09.20:995][137]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2021.08.04-01.09.20:997][137]LogD3D11RHI: Shutdown
+[2021.08.04-01.09.20:997][137]LogD3D11RHI: CleanupD3DDevice
+[2021.08.04-01.09.21:005][137]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2021.08.04-01.09.21:005][137]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2021.08.04-01.09.21:005][137]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2021.08.04-01.09.21:056][137]LogD3D11RHI: [IntelMetricsDiscovery] Stopped
+[2021.08.04-01.09.21:198][137]LogD3D11RHI: ~FD3D11DynamicRHI
+[2021.08.04-01.09.21:207][137]LogExit: Exiting.
+[2021.08.04-01.09.21:216][137]Log file closed, 08/03/21 21:09:21
